@@ -303,11 +303,11 @@
               {
                 "label": "Android 10",
                 "key": "android10",
-                "downloadUrl": "https://example.com",
                 "children": [
                   {
-                    "label": "V5.6",
-                    "key": "v5.6"
+                    "label": "Galaxy S9 G960F A10_V5.6",
+                    "key": "Galaxy-S9-G960F-A10_V5.6",
+                    "downloadUrl": "https://drive.google.com/file/d/1paWiSwCQF5fSZgyFFu6DUZQXu-asFvUt/view?usp=sharing"
                   }
                 ]
               },
