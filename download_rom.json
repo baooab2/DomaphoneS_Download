@@ -1,332 +1,332 @@
 {
-    "options": [
-      {
-        "label": "Google",
-        "key": "Google",
-        "children": [
-          {
-            "label": "Pixel 3a",
-            "key": "Pixel-3a",
-            "children": [
-              {
-                "label": "Android 10",
-                "key": "android10",
-                "children": [
-                  {
-                    "label": "Pixel 3a android10 v5.6",
-                    "key": "Pixel_3a_A10_v5.6.zip",
-                    "downloadUrl": "https://drive.usercontent.google.com/download?id=1TQ3OPUQ-LDJ243NAUHmiXw4yb8uyPjzj",
-                      "hash": "Là tôi đây"
-                  }
-                ]
-              },
-              {
-                "label": "Android 12",
-                "key": "android12",
-                "children": [
-                  {
-                    "label": "Pixel 3a android12 V1.6",
-                    "key": "Pixel_3a_A10_v1.6.zip",
-                    "downloadUrl": "https://drive.usercontent.google.com/download?id=19eIoY_K2Ai7AcYtCrrYtmGyYH0ZzXiIt"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "label": "Pixel 3a XL",
-            "key": "Pixel-3a-XL",
-            "children": [
-              {
-                "label": "Android 10",
-                "key": "android10",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V5.6",
-                    "key": "v5.6"
-                  }
-                ]
-              },
-              {
-                "label": "Android 12",
-                "key": "android12",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V1.6",
-                    "key": "v1.6"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "label": "Pixel 3   ",
-            "key": "Pixel-3",
-            "children": [
-              {
-                "label": "Android 10",
-                "key": "android10",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V5.6",
-                    "key": "v5.6"
-                  }
-                ]
-              },
-              {
-                "label": "Android 12",
-                "key": "android12",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V1.6",
-                    "key": "v1.6"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "label": "Pixel 3 XL",
-            "key": "Pixel-3-XL",
-            "children": [
-              {
-                "label": "Android 10",
-                "key": "android10",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V5.6",
-                    "key": "v5.6"
-                  }
-                ]
-              },
-              {
-                "label": "Android 12",
-                "key": "android12",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V1.6",
-                    "key": "v1.6"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "label": "Pixel 4   ",
-            "key": "Pixel-4",
-            "children": [
-              {
-                "label": "Android 10",
-                "key": "android10",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V5.6",
-                    "key": "v5.6"
-                  }
-                ]
-              },
-              {
-                "label": "Android 12",
-                "key": "android12",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V1.6",
-                    "key": "v1.6"
-                  }
-                ]
-              },
-              {
-                "label": "Android 13",
-                "key": "android13",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V1.6",
-                    "key": "v1.6"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "label": "Pixel 4 XL",
-            "key": "Pixel-4-XL",
-            "children": [
-              {
-                "label": "Android 10",
-                "key": "android10",
-                "children": [
-                  {
-                    "label": "Pixel 4 XL a10_v5.6",
-                    "key": "Pixel_4_XL_A10_v5.6.zip",
-                    "downloadUrl": "https://drive.google.com/file/d/1ODjsNHc8wBsaUmJWC77OSbzpC5BnwfGP/view?usp=sharing"
-                  }
-                ]
-              },
-              {
-                "label": "Android 12",
-                "key": "android12",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V1.6",
-                    "key": "v1.6"
-                  }
-                ]
-              },
-              {
-                "label": "Android 13",
-                "key": "android13",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V1.6",
-                    "key": "v1.6"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "label": "Pixel 4a",
-            "key": "Pixel-4a",
-            "children": [
-              {
-                "label": "Android 13",
-                "key": "android13",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V1.6",
-                    "key": "v1.6"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "label": "Pixel 4a 5G",
-            "key": "Pixel-4a-5G",
-            "children": [
-              {
-                "label": "Android 13",
-                "key": "android13",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V1.6",
-                    "key": "v1.6"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "label": "Pixel 5",
-            "key": "Pixel-5",
-            "children": [
-              {
-                "label": "Android 13",
-                "key": "android13",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V1.6",
-                    "key": "v1.6"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "label": "Pixel 5a",
-            "key": "Pixel-5a",
-            "children": [
-              {
-                "label": "Android 13",
-                "key": "android13",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V1.6",
-                    "key": "v1.6"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "label": "Samsung",
-        "key": "Samsung",
-        "children": [
-          {
-            "label": "Galaxy S9 (G960N)",
-            "key": "Galaxy-S9-G960N",
-            "children": [
-              {
-                "label": "Android 10",
-                "key": "android10",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V5.6",
-                    "key": "v5.6"
-                  }
-                ]
-              },
-              {
-                "label": "Android 13",
-                "key": "android13",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V1.6",
-                    "key": "v1.6"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "label": "Galaxy S9 (G960F)",
-            "key": "Galaxy-S9-G960F",
-            "children": [
-              {
-                "label": "Android 10",
-                "key": "android10",
-                "children": [
-                  {
-                    "label": "Galaxy S9 G960F A10_V5.6",
-                    "key": "Galaxy-S9-G960F-A10_V5.6.tar",
-                    "downloadUrl": "https://drive.google.com/file/d/1F9mn6qNd0DOvROec8oVJlrtqrtcCrC00/view?usp=sharing",
-                      "hash": "là tôi đây"
-                  }
-                ]
-              },
-              {
-                "label": "Android 13",
-                "key": "android13",
-                "downloadUrl": "https://example.com",
-                "children": [
-                  {
-                    "label": "V1.6",
-                    "key": "v1.6"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+  "options": [
+    {
+      "label": "Google",
+      "key": "Google",
+      "children": [
+        {
+          "label": "Pixel 3a",
+          "key": "Pixel-3a",
+          "children": [
+            {
+              "label": "Android 10",
+              "key": "android10",
+              "children": [
+                {
+                  "label": "Pixel 3a android10 v5.6",
+                  "key": "Pixel_3a_A10_v5.6.zip",
+                  "downloadUrl": "https://drive.usercontent.google.com/download?id=1TQ3OPUQ-LDJ243NAUHmiXw4yb8uyPjzj",
+                  "hash": "duqZfpEXkast2Jp7JsKg83gq8SpUjvFJbpet7iRqG5anmaRl+Yw+du7bN/BI+Yd+lvpP5fpTLnXTih4Crdy1kCrEFGM33aZCVMsk5yITcN3cG/JWQbKweJSesxMl71PVLYQCBsHioB0e4N1KyfYKzRS2emapnIfJ6wjZ6MNFpM3bnNjlKKLMJARrdRN5PoBWro6pXTJ2UDcaEpvUryVNQpupfliusyQL3ADMBpjUfq1W+Ma3RVl9UuXCwrh3/NAGRHUwfHNOnQ3EMXG+x9oZpmyiucFkhMXESKpY0PqzzIorVbGG47ft64PzvQ34mxt0vxPsj8n4BT/uWOjwiYzOLg=="
+                }
+              ]
+            },
+            {
+              "label": "Android 12",
+              "key": "android12",
+              "children": [
+                {
+                  "label": "Pixel 3a android12 V1.6",
+                  "key": "Pixel_3a_A10_v1.6.zip",
+                  "downloadUrl": "https://drive.usercontent.google.com/download?id=19eIoY_K2Ai7AcYtCrrYtmGyYH0ZzXiIt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 3a XL",
+          "key": "Pixel-3a-XL",
+          "children": [
+            {
+              "label": "Android 10",
+              "key": "android10",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V5.6",
+                  "key": "v5.6"
+                }
+              ]
+            },
+            {
+              "label": "Android 12",
+              "key": "android12",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V1.6",
+                  "key": "v1.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 3   ",
+          "key": "Pixel-3",
+          "children": [
+            {
+              "label": "Android 10",
+              "key": "android10",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V5.6",
+                  "key": "v5.6"
+                }
+              ]
+            },
+            {
+              "label": "Android 12",
+              "key": "android12",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V1.6",
+                  "key": "v1.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 3 XL",
+          "key": "Pixel-3-XL",
+          "children": [
+            {
+              "label": "Android 10",
+              "key": "android10",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V5.6",
+                  "key": "v5.6"
+                }
+              ]
+            },
+            {
+              "label": "Android 12",
+              "key": "android12",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V1.6",
+                  "key": "v1.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 4   ",
+          "key": "Pixel-4",
+          "children": [
+            {
+              "label": "Android 10",
+              "key": "android10",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V5.6",
+                  "key": "v5.6"
+                }
+              ]
+            },
+            {
+              "label": "Android 12",
+              "key": "android12",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V1.6",
+                  "key": "v1.6"
+                }
+              ]
+            },
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V1.6",
+                  "key": "v1.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 4 XL",
+          "key": "Pixel-4-XL",
+          "children": [
+            {
+              "label": "Android 10",
+              "key": "android10",
+              "children": [
+                {
+                  "label": "Pixel 4 XL a10_v5.6",
+                  "key": "Pixel_4_XL_A10_v5.6.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1ODjsNHc8wBsaUmJWC77OSbzpC5BnwfGP/view?usp=sharing"
+                }
+              ]
+            },
+            {
+              "label": "Android 12",
+              "key": "android12",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V1.6",
+                  "key": "v1.6"
+                }
+              ]
+            },
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V1.6",
+                  "key": "v1.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 4a",
+          "key": "Pixel-4a",
+          "children": [
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V1.6",
+                  "key": "v1.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 4a 5G",
+          "key": "Pixel-4a-5G",
+          "children": [
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V1.6",
+                  "key": "v1.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 5",
+          "key": "Pixel-5",
+          "children": [
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V1.6",
+                  "key": "v1.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 5a",
+          "key": "Pixel-5a",
+          "children": [
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V1.6",
+                  "key": "v1.6"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Samsung",
+      "key": "Samsung",
+      "children": [
+        {
+          "label": "Galaxy S9 (G960N)",
+          "key": "Galaxy-S9-G960N",
+          "children": [
+            {
+              "label": "Android 10",
+              "key": "android10",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V5.6",
+                  "key": "v5.6"
+                }
+              ]
+            },
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V1.6",
+                  "key": "v1.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Galaxy S9 (G960F)",
+          "key": "Galaxy-S9-G960F",
+          "children": [
+            {
+              "label": "Android 10",
+              "key": "android10",
+              "children": [
+                {
+                  "label": "Galaxy S9 G960F A10_V5.6",
+                  "key": "Galaxy-S9-G960F-A10_V5.6.tar",
+                  "downloadUrl": "https://drive.google.com/file/d/1F9mn6qNd0DOvROec8oVJlrtqrtcCrC00/view?usp=sharing",
+                    "hash": "là tôi đây"
+                }
+              ]
+            },
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "downloadUrl": "https://example.com",
+              "children": [
+                {
+                  "label": "V1.6",
+                  "key": "v1.6"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
