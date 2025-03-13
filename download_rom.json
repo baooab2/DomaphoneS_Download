@@ -40,11 +40,10 @@
             {
               "label": "Android 10",
               "key": "android10",
-              "downloadUrl": "https://example.com",
               "children": [
                 {
-                  "label": "V5.6",
-                  "key": "v5.6"
+                  "label": "Pixel 3a XL A10 v5.7 (Tool V3.0.0.3+)",
+                  "key": "Pixel_3a_XL_A10_v5.7.zip"
                 }
               ]
             },
