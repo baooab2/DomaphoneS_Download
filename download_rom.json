@@ -43,14 +43,15 @@
               "children": [
                 {
                   "label": "Pixel 3a XL A10 v5.7 (Tool V3.0.0.3+)",
-                  "key": "Pixel_3a_XL_A10_v5.7.zip"
+                  "key": "Pixel_3a_XL_A10_v5.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1bU28e_STycVROvBACjMy5s6BerwPYBX5/view?usp=sharing",
+                  "hash": "QMVLQtBMB9D1cJuMxEUXK9qz6J6FEma4VuUaOOU6Bc8A+XiXzyFOxL2Hd6IBTGzRh6C34yV0mUTu8dP+zQWMbzpTmguMbUexdyyyDNVLZ1TnCk61H3jdCKKJ2aqIR+ntpnks0VaNqpTseV91/zi1oz2HpGIQKUa6pHTbCLygWBThCGUAH1MtMHV5bJT+kaxe8InY64XqmswNgNvxKBBsU3IcDAwKkx4ojm0H10KVEVOEfKsqSbDYHBkHqOUlVgkXbVt7ocd9VvwYOZM9p44zctnKNbxBZKhpmVtIQV4nqrqyUfoZNCNWAakjW9Y3P3PJBnpEqgWA3DqaxU6AEYz+HQ=="
                 }
               ]
             },
             {
               "label": "Android 12",
               "key": "android12",
-              "downloadUrl": "https://example.com",
               "children": [
                 {
                   "label": "V1.6",
@@ -67,18 +68,18 @@
             {
               "label": "Android 10",
               "key": "android10",
-              "downloadUrl": "https://example.com",
               "children": [
                 {
-                  "label": "V5.6",
-                  "key": "v5.6"
+                  "label": "Pixel 3 A10 v5.7 (Tool V3.0.0.3+)",
+                  "key": "Pixel_3_A10_v5.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1AmTUjJ-kqLyFsptCrX1MWdpan8wC-l-N/view?usp=sharing",
+                  "hash": "DRgve42zfDSgkJikNsrPUaDR8rE0yThOtI2QyAJiuQM1prxk4ZoGxl4thTyq5zqxDuLRNbFuQI48UwQGpfA4KDCpwJmUIHkYGsg2gQBhMGEQKoCO2qBmNgi9Uju6iM5jiCmk05ZYMKHOmm9ZM28dE3TdNkWIM3pz1fKkdxi7VIzhGv6W69dDyTKD/vlOnJuoVpAsuZ4dNE4fkdSn58ngf2Vo6oMNoyvUtnNfrXgO+Jeeybqi4lMK5hs7l3IX4l2CLOcx17MMCAto0iMo3ycZNl4G7hutmS9CnkjTNPnf/HulnSfR6lO9GMbLHV5vNKn+SG9tbqSOcWx+wJiQweIOeA=="
                 }
               ]
             },
             {
               "label": "Android 12",
               "key": "android12",
-              "downloadUrl": "https://example.com",
               "children": [
                 {
                   "label": "V1.6",
@@ -95,18 +96,18 @@
             {
               "label": "Android 10",
               "key": "android10",
-              "downloadUrl": "https://example.com",
               "children": [
                 {
-                  "label": "V5.6",
-                  "key": "v5.6"
+                  "label": "Pixel 3 XL A10 v5.7 (Tool V3.0.0.3+)",
+                  "key": "Pixel_3_XL_A10_v5.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/18ebeFU2upWcsw-C5CMOqrXWvJILErByX/view?usp=sharing",
+                  "hash": "bNAXsb4d0brdwnp/LJbYHozhaqs1L+uYipcoZjHNkZPjDLDHLyLvESdo6Q+OxGbiIgUHWiNq87v/yoeupMpFJGwGFf2gGmI0O/rAZwlLNe63br7tP2V903dLlTsIR3bejebFOTJaz5pBpWtverAt3chTCm5exWqCvGOhaFs8zKFbbW1a/PdJivH7HqVPKVEglhITEL44Nuhl6M22k0VyspzvgO3BRWBWbWExkMv6CP6dOvCHFoSUHZOJjappDYfqCdxfKX7DeP8wEk/MruM5iW5sCLnyBEWSccwzAfZfDtfjOskJGdNrI9iwg5BQuQUS8CrYuWDxi5jjHLuTrg6FJQ=="
                 }
               ]
             },
             {
               "label": "Android 12",
               "key": "android12",
-              "downloadUrl": "https://example.com",
               "children": [
                 {
                   "label": "V1.6",
@@ -123,18 +124,18 @@
             {
               "label": "Android 10",
               "key": "android10",
-              "downloadUrl": "https://example.com",
               "children": [
                 {
-                  "label": "V5.6",
-                  "key": "v5.6"
+                  "label": "Pixel 4 A10 v5.7 (Tool V3.0.0.3+)",
+                  "key": "Pixel_4_A10_v5.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/17Kok5KBMQioOm3Ie28MqoRtS3eAMgRTQ/view?usp=sharing",
+                  "hash": "aH/W7PZl7vkfiXJw2QW1KziXGAWdTo6FJNS/UmRMnmh51jpBSWZMa3EmXX59b/r2w2lLgzxVAEtgx7ylTVUFSukXMZDRIQ51aoDydEjPpVgIqIRcu8qA97dZ1S8stMR90QgPXvETXKg8jnAZFDzPGGY6otvT8v4/820W0piOhJoPyi/NwiiRLxSUl7K+UuFKixyGaA+9HjIcjSkkA343jrsvt2LxVmG8MSRS/l/Crj/NtuJ4Ki0TQT9CKwIbqLk1ra0zqIxqv73JadywvLc0h/Yzk33BjryY3vPWw9BBl6506DIT/aj3JY2Q5hA/+P4KfZVbncI75Cw+yGPYCfSw0w=="
                 }
               ]
             },
             {
               "label": "Android 12",
               "key": "android12",
-              "downloadUrl": "https://example.com",
               "children": [
                 {
                   "label": "V1.6",
@@ -145,7 +146,6 @@
             {
               "label": "Android 13",
               "key": "android13",
-              "downloadUrl": "https://example.com",
               "children": [
                 {
                   "label": "V1.6",
@@ -167,6 +167,11 @@
                   "label": "Pixel 4 XL a10_v5.6",
                   "key": "Pixel_4_XL_A10_v5.6.zip",
                   "downloadUrl": "https://drive.google.com/file/d/1ODjsNHc8wBsaUmJWC77OSbzpC5BnwfGP/view?usp=sharing"
+                }, {
+                  "label": "Pixel 4 XL A10 v5.7 (Tool V3.0.0.3+)",
+                  "key": "Pixel_4_XL_A10_v5.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1ssZ2g-l2BoPaxPLkgpMwJTSDJjo0riL4/view?usp=sharing",
+                  "hash": "HIHFaLyop3ESYQvVG/8ieYZkcL7b2IKJnVf/6eRpPRA+wLBND4/PwNKb+cEdSLQESI1w4FZl9pgtt1jGnw7c+A9PN9GIaIvWDDODeqTDnJpeuUQN0u4YKgUe9FfoYcZBVCdw0+BDB7cnPYak3g8DzqOhWq7431zx7DTi4VkYohQImjSiR5h4PMvRfFmAki6OpvU5bBm4/f4bkAQg5qHfSvd2JHfDj+gFk+i96+jvP2S3nZCHgCFIw9TmFu1vV3x+vl37pKx8Suqx/Y/mfUpomFg9yCLlbK8rtwsI6BntRNOXwDDT/Q8FPCUMevlaTpHWP4W6uOnmb6T3sU6CKbAiqA=="
                 }
               ]
             },
@@ -275,11 +280,11 @@
             {
               "label": "Android 10",
               "key": "android10",
-              "downloadUrl": "https://example.com",
               "children": [
                 {
-                  "label": "V5.6",
-                  "key": "v5.6"
+                  "label": "SM-G960N A10_V5.6",
+                  "key": "Galaxy-S9-G960F-A10_V5.6.tar",
+                  "downloadUrl": "https://drive.google.com/file/d/1_cg3j7uGD9hDwQ5zQxHfOZVPY1vPZ4TB/view?usp=sharing"
                 }
               ]
             },
@@ -305,10 +310,10 @@
               "key": "android10",
               "children": [
                 {
-                  "label": "Galaxy S9 G960F A10_V5.6",
+                  "label": "SM-G960F A10_V5.6",
                   "key": "Galaxy-S9-G960F-A10_V5.6.tar",
                   "downloadUrl": "https://drive.google.com/file/d/1F9mn6qNd0DOvROec8oVJlrtqrtcCrC00/view?usp=sharing",
-                    "hash": "là tôi đây"
+                    "hash": ""
                 }
               ]
             },
