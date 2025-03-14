@@ -6,11 +6,11 @@
       "children": [
         {
           "label": "Pixel 3a",
-          "key": "Google/Pixel-3a",
+          "key": "Pixel-3a",
           "children": [
             {
               "label": "Android 10",
-              "key": "Google/Pixel-3a/android10",
+              "key": "android10",
               "children": [
                 {
                   "label": "Pixel 3a A10 v5.6",
@@ -21,14 +21,14 @@
                 {
                   "label": "Pixel 3a A10 v5.7 (Tool V3.0.0.4+)",
                   "key": "Pixel_3a_A10_v5.7.zip",
-                  "downloadUrl": "https://drive.google.com/file/d/18dPlX_i_JSBQUXaDxtq-FvGPJzGpB4mF/view?usp=sharing",
-                  "hash": "Jcn3oIhFZULOjVuRuIcC7m5i/jgPnXpjrceZJzgSzl3EzU0PoqzfgY/702DSyoXmU+lGiVwgICnSYzJJ9JH3lxShlepb4Z2NJDmfWYmWh5g+QCZB8i/qFMaHOJu2eg+Jdh09M8uWNC7lf8KKXqGXhJGPswrZk+evEwe5+vJ3cPOPIEOC+nd2YPHUhN0QVUbyC2H12L8EyPNX5DbGbA+6qrUiBBeBkYR3nO4lhDMoTPbhfPwcQKbBqEBhENYas8ptMmQVrB5S1F+J3NegyAvb6mq9XlZ1a36dZNIYu0Lsj9G3RoMPolpYNT+8W0UpYTRRJBMoJCx9nHDhb6kEtZnZTQ=="
+                  "downloadUrl": "",
+                  "hash": "bXx8e1Gi5QOd5RK19lzRy80/dZ7Jx8kq4ydwjlf6lSeNPe4FOZjOqGnKefZqsEZuvl/6m96C4TKXHdWj08vz5tLURAwV4gDSRJcmxVeS+HPy10DbJF5rxQafwIeznUNxt2I4hXqXFQSvJpOY0ohYGuW/v+WX6atDVkJ2J7/P5CyzlToxJKAzDZqOlmJY64b6ogFrf2lqXjgQVXXFjl38jIWhbPfuITTgiqXh0F5BKsY+4uQvB7cHe75GFc8fqChCXsq6IQ4xVwYnFl0b4kosXNdoIkFXQG7BH8oXMOTPMxzzRb0+mii24bmuW7CE80g19bCaLXrF6BYWOUfEQKPIxA=="
                 }
               ]
             },
             {
               "label": "Android 12",
-              "key": "Google/Pixel-3a/android12",
+              "key": "android12",
               "children": [
                 {
                   "label": "Pixel 3a A12 V1.6",
@@ -48,11 +48,11 @@
         },
         {
           "label": "Pixel 3a XL",
-          "key": "Google/Pixel-3a-XL",
+          "key": "Pixel-3a-XL",
           "children": [
             {
               "label": "Android 10",
-              "key": "Google/Pixel-3a-XL/android10",
+              "key": "android10",
               "children": [
                 {
                   "label": "Pixel 3a XL A10 v5.6",
@@ -70,7 +70,7 @@
             },
             {
               "label": "Android 12",
-              "key": "Google/Pixel-3a-XL/android12",
+              "key": "android12",
               "children": [
                 {
                   "label": "Pixel 3a A12 V1.6",
@@ -83,6 +83,392 @@
                   "key": "Pixel_3a_XL_A12_v1.7.zip",
                   "downloadUrl": "https://drive.google.com/file/d/1J",
                   "hash": "" 
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 3",
+          "key": "Pixel-3",
+          "children": [
+            {
+              "label": "Android 10",
+              "key": "android10",
+              "children": [
+                {
+                  "label": "Pixel 3 A10 v5.6",
+                  "key": "Pixel_3_A10_v5.6.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1oJY5cBJSE3nUjNA-9wpkp-quVGmO-n4u/view?usp=sharing",
+                  "hash": "JSyDMIGI/8hpgNY3edtQTylC0APuwnl8mdKBf9kqpT32knBlcH8MTZI/P57ZuoIVfRNKn15lIH/NDR8jXZ1TPpnlD2acomOfQHkau82qAvEuyvnR/mJ15OXM4BUq+HPG5lfp3G3/WO5tAFvkKZzG7c0X7HviZd8+nbAj518ZwMBDRQTHZfsetvuP5p/5LDxVozmXnpNmTy+9lNG5Dta2RCQESgO1CjmwjxEXg63KNQXIcdip8sjBUnkpKAVKBL18Kl/sBSEX0BMFEOHBJxgJXxOYGdsGiwqEpJmgjh31+vIeC3z3kgyF8ioJTW1M0FGqJhroB6xrXZNNuBdA+A0MMA=="
+                },
+                {
+                  "label": "Pixel 3 A10 v5.7 (Tool V3.0.0.4+)",
+                  "key": "Pixel_3_A10_v5.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1AmTUjJ-kqLyFsptCrX1MWdpan8wC-l-N/view?usp=sharing",
+                  "hash": "DRgve42zfDSgkJikNsrPUaDR8rE0yThOtI2QyAJiuQM1prxk4ZoGxl4thTyq5zqxDuLRNbFuQI48UwQGpfA4KDCpwJmUIHkYGsg2gQBhMGEQKoCO2qBmNgi9Uju6iM5jiCmk05ZYMKHOmm9ZM28dE3TdNkWIM3pz1fKkdxi7VIzhGv6W69dDyTKD/vlOnJuoVpAsuZ4dNE4fkdSn58ngf2Vo6oMNoyvUtnNfrXgO+Jeeybqi4lMK5hs7l3IX4l2CLOcx17MMCAto0iMo3ycZNl4G7hutmS9CnkjTNPnf/HulnSfR6lO9GMbLHV5vNKn+SG9tbqSOcWx+wJiQweIOeA=="
+                }
+              ]
+            },
+            {
+              "label": "Android 12",
+              "key": "android12",
+              "children": [
+                {
+                  "label": "Pixel 3 A12 V1.6",
+                  "key": "Pixel_3_A12_v1.6.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/17AH8QZNDG5-2kade99ozWdtB9hvUMuMc/view?usp=sharing",
+                  "hash": "dRV9cxtY2bWr2zCRWoTqouDwSlz3YPbSws7q8h1gms7zu7H6C97CIfViexQDyYIIKJmWYq8x6o6ar1viGRKzJuEWFAPvbbbQfMZ9eo3GSUNYRO4pn23UM2Rb3GpwZfKWbZL8fyroryY/la8QpAHSpwGjOR1Aj8WSIu/6iQMSd0j7P21p3AXTNG+RsOw4pJmbvN085dxqyL8hdPeBaoELEvR+gjGnoIzSQ7q+/iAQNDDc3JqgR8ssuHn6ITUFTa0iwRSmm6zs8ZViV1OJYhA0YwguYC4jkpoaAmiK9gnmiDO8LSzVvHfZdJeOsAW+MC6zvmZvJIeGuL1MQKEkaBGNXQ=="
+                },
+                {
+                  "label": "Pixel 3 A12 V1.7 (Tool V3.0.0.4+)",
+                  "key": "Pixel_3_A12_v1.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1J",
+                  "hash": "" 
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 3 XL",
+          "key": "Pixel-3-XL",
+          "children": [
+            {
+              "label": "Android 10",
+              "key": "android10",
+              "children": [
+                {
+                  "label": "Pixel 3 XL A10 v5.6",
+                  "key": "Pixel_3_XL_A10_v5.6.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1Th521nl99TW3tkVz6R55CvwKxzDtv0bi/view?usp=sharing",
+                  "hash": "Fhr4DFKGh/kjyJOezTyZESrg56Y6Jyfp+kBMk5pjJDoEdQr91slXkmFZelOncWW1IkSc/LtXe32Rdzep2dHUdUOsgAJ+yz+/KLmuX2/G1uRXT75FnnXOKa5JacH1EyX+3CGCilOr/6NlKeZfBJmLKjNKUuAd50EU0elGfXZYw83WheLUjbhkk4yIXHGRHRPn0HireLv0FqFQRlH3KwfEXHODshQp2EbZ2gYRTJ6hEpUwlS3884QkBuy9f3Dmjz6TmMWs7QOVRtWnuj1R/n+9uWxse6rg9m7WrN8PU8hlJArV0I/AX3okLH7NjGfuhH3TPZTLLR/qgawoBHhK9tUSWg=="
+                  },
+                {
+                  "label": "Pixel 3 XL A10 v5.7 (Tool V3.0.0.4+)",
+                  "key": "Pixel_3_XL_A10_v5.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/18ebeFU2upWcsw-C5CMOqrXWvJILErByX/view?usp=sharing",
+                  "hash": "bNAXsb4d0brdwnp/LJbYHozhaqs1L+uYipcoZjHNkZPjDLDHLyLvESdo6Q+OxGbiIgUHWiNq87v/yoeupMpFJGwGFf2gGmI0O/rAZwlLNe63br7tP2V903dLlTsIR3bejebFOTJaz5pBpWtverAt3chTCm5exWqCvGOhaFs8zKFbbW1a/PdJivH7HqVPKVEglhITEL44Nuhl6M22k0VyspzvgO3BRWBWbWExkMv6CP6dOvCHFoSUHZOJjappDYfqCdxfKX7DeP8wEk/MruM5iW5sCLnyBEWSccwzAfZfDtfjOskJGdNrI9iwg5BQuQUS8CrYuWDxi5jjHLuTrg6FJQ=="
+                }
+              ]
+            },
+            {
+              "label": "Android 12",
+              "key": "android12",
+              "children": [
+                {
+                  "label": "Pixel 3 XL A12 V1.6",
+                  "key": "Pixel_3_XL_A12_v1.6.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1HiLaYhZhKqc4uhczWQ2q4cmS2Mx518uk/view?usp=sharing",
+                  "hash": "B6Qxftp6pN64uH0Kf85qWA8aN1aHCeKyJwDULpwlfC1IgRlFuDOiUX+O2UYUTJEQU/IvBejoFib5H4YuLQaSLE6vKKofJ3iEJKaAGB8Sw7vrVqDCj+/Ph8TZMaaCFxK0kTcrbc4cJlDO+zCucPZMrhalP5BxnbPI3iqzH2n23NTaFM6xIq/HWHgHPbGCbuXSfS4Mz9YzQTLpnpMNvVgXGI3Pu4TSTZ2BMIrKnO8Otb7UrPQpDjZ9jBCifv20szlbwVO57EGeFxdep1qyiQJu/L60IreAIyiZgrqPUnDERES76kbLrnE/5p/vwecs7v++LiizFhfyQxjEppxf2SOYUA=="
+                },
+                {
+                  "label": "Pixel 3 XL A12 V1.7 (Tool V3.0.0.4+)",
+                  "key": "Pixel_3_XL_A12_v1.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1J",
+                  "hash": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 4",
+          "key": "Pixel-4",
+          "children": [
+            {
+              "label": "Android 10",
+              "key": "android10",
+              "children": [
+                {
+                  "label": "Pixel 4 A10 v5.6",
+                  "key": "Pixel_4_A10_v5.6.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1nX0ab5hc3spF8PnOepuBRGp53co3dZI7/view?usp=sharing",
+                  "hash": "Q8SwZbZEqldtDaIYOZ7M+g0UYpIbtM0KDgMPrFnbBLOG1ktKtmeGNjf1agxxpgnAa+FAlmEiEbif+49nrsu92MHQjLdGqAeYZmFyCRLcrWM2z0y8NCsEbzbOFEfIUNPmwlc/5jBGSEYMYF6ZIceYNcXSgKfWH+zVuj6syLsZp//5ThYkMlu0uxO2rd7wX5Q0Hf5X0Z2BqkpYrKfYrV//mEBSNh65F8QtiEOMkoYavx0/0t/87cqWOk0xWLHNIuBB4YkcnHJ2wNF7gVE4DBqy4A78cl3uTfvGE21Z9+VoWkVdgHnnch9YcCRzRGy3wJQpHhG1LegwY9kWNharhkYV7g=="
+                  },
+                {
+                  "label": "Pixel 4 A10 v5.7 (Tool V3.0.0.4+)",
+                  "key": "Pixel_4_A10_v5.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/17Kok5KBMQioOm3Ie28MqoRtS3eAMgRTQ/view?usp=sharing",
+                  "hash": "aH/W7PZl7vkfiXJw2QW1KziXGAWdTo6FJNS/UmRMnmh51jpBSWZMa3EmXX59b/r2w2lLgzxVAEtgx7ylTVUFSukXMZDRIQ51aoDydEjPpVgIqIRcu8qA97dZ1S8stMR90QgPXvETXKg8jnAZFDzPGGY6otvT8v4/820W0piOhJoPyi/NwiiRLxSUl7K+UuFKixyGaA+9HjIcjSkkA343jrsvt2LxVmG8MSRS/l/Crj/NtuJ4Ki0TQT9CKwIbqLk1ra0zqIxqv73JadywvLc0h/Yzk33BjryY3vPWw9BBl6506DIT/aj3JY2Q5hA/+P4KfZVbncI75Cw+yGPYCfSw0w=="
+                }
+              ]
+            },
+            {
+              "label": "Android 12",
+              "key": "android12",
+              "children": [
+                {
+                  "label": "Pixel 4 A12 V1.6",
+                  "key": "Pixel_4_A12_v1.6.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1HSVhp9WR_leE45FuMoTQFhr7Xf9T_kQ6/view?usp=sharing",
+                  "hash": "FjhQP+rG2ZVQIhlrNQ/strBWxLK+6RbxarpfTa1W7dKNegDH7HFl7e0FVin4jkTz0iVURsfJhH4CfLlP09RuTzSlz0WHCNWrkleD/KK+djpUXh93f19SLWJXXmYwkuDIh+cjJRX9nU6XAPX4Rbm4oy9UliV/TtP5SDjoO8LaN3DA7hzli6cS6tOH7ykhua5GAHfhBbZ1CZnZPkwzolM5CJ9SoCCpifZnGgWSh5u3ChVJAJMB8vzC0s72mhNJ6vbI+luvFtkoLMrtgeL0F0Pyvb7MVdsGzFi1SnYRwkEt4962m8NqSBs5Y/AiGmZyD6GV3GkJFLZiUg65dsct8+TrnQ=="
+                },
+                {
+                  "label": "Pixel 4 A12 V1.7 (Tool V3.0.0.4+)",
+                  "key": "Pixel_4_A12_v1.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1J",
+                  "hash": ""
+                }
+              ]
+            },
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "children": [
+                {
+                  "label": "Pixel 4 A13 V1.6",
+                  "key": "Pixel_4_A13_v1.6.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1eDb3Kf6w5bsejh25r7arlEKpGijE2tPC/view?usp=sharing",
+                  "hash": "Jr3h6ZhFB3urlNKxNINnl+E4JSqGMESolhbIDMdHCNtLqEiNYeTM+Z1hsAcheUIb+wLZNJwdXz/txUX/HpC+xYzX7V4B/6jp/aHDuxhumEbN7b3zOsXTFS5k8tifcV48Nf+xQaQjAL9vNY6Ufh5DEyT+8QiYBwECcMz4+3B7lVyY35XmOrzZiDao4MemHs5Q1C7XKBW5mPz9cJ/aoQ5aGQYJ2b+J9MMyq8bXbq/FBovqmIKQcdJmKAdtvxcvqTdvqgh6EuxedziwOFAeiuxuvP1JvCJlGPLiXuRumxHFGVXfOemGFnFoqDvWTlI45vJfMihFNXgNVoyBoO9ivOuWgg=="
+                },
+                {
+                  "label": "Pixel 4 A13 V1.7 (Tool V3.0.0.4+)",
+                  "key": "Pixel_4_A13_v1.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1J",
+                  "hash": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 4 XL",
+          "key": "Pixel-4-XL",
+          "children": [
+            {
+              "label": "Android 10",
+              "key": "android10",
+              "children": [
+                {
+                  "label": "Pixel 4 XL a10_v5.6",
+                  "key": "Pixel_4_XL_A10_v5.6.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1ODjsNHc8wBsaUmJWC77OSbzpC5BnwfGP/view?usp=sharing",
+                  "hash": "gL6U7gGNYsE9xW5BTnxkMozhYG2JOqf+niQqTs1PU0PF82pvW9mNvtMk2HBBHT1jSLYyq8l8cF9MjIIaOVylDkZ+zCWcT31ODVKB/h34zbZBH959RrRDomwVXq8BxVp/yajBEEQk93h/K+BcJ5qfudkC2VogiYbNJ3wwzzox7HtgeLm+i+1k102vYyn0szmw/Z858zJBoGXthl21uO9i6JyXEbRaCRMj17wgT9hb7MA6om2Y+8NXZhOOw6YSkZ2yNQJsUFEweAXzPl6gQl4sEcjEe6LAoTDtTyDzQTdrHm7wk+GmalJvCxGbZZk2HUbalOfziWvOiOIy8hn8AZ9L1Q=="
+                }, 
+                {
+                  "label": "Pixel 4 XL A10 v5.7 (Tool V3.0.0.4+)",
+                  "key": "Pixel_4_XL_A10_v5.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1ssZ2g-l2BoPaxPLkgpMwJTSDJjo0riL4/view?usp=sharing",
+                  "hash": "HIHFaLyop3ESYQvVG/8ieYZkcL7b2IKJnVf/6eRpPRA+wLBND4/PwNKb+cEdSLQESI1w4FZl9pgtt1jGnw7c+A9PN9GIaIvWDDODeqTDnJpeuUQN0u4YKgUe9FfoYcZBVCdw0+BDB7cnPYak3g8DzqOhWq7431zx7DTi4VkYohQImjSiR5h4PMvRfFmAki6OpvU5bBm4/f4bkAQg5qHfSvd2JHfDj+gFk+i96+jvP2S3nZCHgCFIw9TmFu1vV3x+vl37pKx8Suqx/Y/mfUpomFg9yCLlbK8rtwsI6BntRNOXwDDT/Q8FPCUMevlaTpHWP4W6uOnmb6T3sU6CKbAiqA=="
+                }
+              ]
+            },
+            {
+              "label": "Android 12",
+              "key": "android12",
+              "children": [
+                {
+                  "label": "Pixel 4 XL A12 V1.6",
+                  "key": "Pixel_4_XL_A12_v1.6.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1VVLsGeXXJKBKMYWFrLVrtFHiNOqagVWd/view?usp=sharing",
+                  "hash": "hDNV6HWtBCMHxT1KGP/XYtXGy3VWuWtmcTDYlXpv07EcPIA7O36KGwg34b7RU1hNvKZy3trHk9WNrfLFt/D/kRYL1+FH0zAYxYbtnZQGIhJSk3v6VoDwH91LAadm8sg69Ow3WcfKKFxHPbnt89Ni4Tn7sYnu6TM0Q1HFT9ND+gUmLq1ohiGkBwBrf0K4186+fcscykQNozbjxlEf4UbNJKmpjOJ6xawgQrKABNJABgerSqLvX4Lc2o5ZlskWXkObyPqe2sZ86kmf+uZzJFBTpK9vmt98GAYQIdDmCP9oMA+nO2zpg8njbXmbVdlXwWNvxzGb75NgsZMYq82zW4xFoA=="
+                },
+                {
+                  "label": "Pixel 4 XL A12 V1.7 (Tool V3.0.0.4+)",
+                  "key": "Pixel_4_XL_A12_v1.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1J",
+                  "hash": ""
+                }
+              ]
+            },
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "children": [
+                {
+                  "label": "Pixel 4 XL A13 V1.6",
+                  "key": "Pixel_4_XL_A13_v1.6.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1sgehry8gui4ba62MgoWRlY6uXPTJwwdz/view?usp=sharing",
+                  "hash": "CnuW4+DEsjWesBJ9ll/4te9HGKT7WDyZ6uoWEUXx4QoqQoZxCSpJqIQK111razb30F8qN5HXsX4gtry/wP7p2r5VlzzaTw5QoGxzjShDzkAFwL4nICH2X8V4l+LpZ1jOpgpNiSwx2TP3nmSSx8y5MSuIWv3QcsA+MBUmkdFZVA72PzNqTYXXVLII2912a+hJAvKFAoRJSSFBvR1zTA+CFHVSJKd8m0U5+Nfl/Z3NaaA1DlI2dgCFbQAzhKEGP1/0zPCFWXo4WW0lYkXWH3M3uEVTVLI14s6nVrWyOuGvKC/1b131aVj57WFlCStGozUaNxU96oZffN/2Oe7sXDpgiw=="
+                },
+                {
+                  "label": "Pixel 4 XL A13 V1.7 (Tool V3.0.0.4+)",
+                  "key": "Pixel_4_XL_A13_v1.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1J",
+                  "hash": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 4a",
+          "key": "Pixel-4a",
+          "children": [
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "children": [
+                {
+                  "label": "Pixel 4a A13 V1.6",
+                  "key": "Pixel_4a_A13_v1.6.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1xxd7nIgtE6aw5-h3PRpVf6km9oC4QAyz/view?usp=sharing",
+                  "hash": "JYd/LViXP66km1owaO8bCxQXnCBNGrHI476lFzN8mBv7t9kpEDIdlR7Nyv2Dx2MtMO79PlDd76jGNk1PgfsSh9vqiQFMdtL/4cJUYY4zQbC81Dd16vDoIt413pqWj3j6bsmumDslI4YEDfuBJWYzGCU6lvXdQs5RES6OH+GWuB+v5dHQyR42i84/PMvHR0EWtQD1NnJTBLTfDOIQdJQP1fnISU0aWPc8Q2vyfiywsc6biZcGMUkJ556Wutj3KK5pzEKqmhjTEwt1UhdY+JHcwRdSoxoA54M7MaRaeNPpS9AhPaU3mDT5ot4XqwodOpO1nkI4ColvK9Mm8129HUuWoA=="
+                },
+                {
+                  "label": "Pixel 4a A13 V1.7 (Tool V3.0.0.4+)",
+                  "key": "Pixel_4a_A13_v1.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1J",
+                  "hash": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 4a 5G",
+          "key": "Pixel-4a-5G",
+          "children": [
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "children": [
+                {
+                  "label": "Pixel 4a 5G A13 V1.6",
+                  "key": "Pixel_4a_5G_A13_v1.6.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1km6CyAsTG7wEJ0kn3qKBryrmwy6UkflO/view?usp=sharing",
+                  "hash": "h8JWCdevEuwKy1ujvvxWiAem2dmL7NGKrV5L3EjjKaRuD+XzXgWOtU4ysrZFcYrobB+bJ9q7RU0nAE129fYrnsBtthvwPAH6RETEuc8CI0bbKdGExDey6U42xcb7HP+PlCB+eXJXMELwSfUCJs5Grd03J0ULtZStfE6suJFMFw1i6VKwuY6utGHe5IhJ5BIqajAD1dxe6ylm00oYhBGKbioJ2d5phZ6ejB2+t+Pz/yGO0JV6K7jCz5FhN3c5Hxodg0NS5q9BWKRD9VDJ/qvU0UAirK4fF2EYeA9NxsAu1FDeN37vFuqHAcaWIfQnV7vwDvQyniycmwso0XmryLYSgQ=="
+                },
+                {
+                  "label": "Pixel 4a 5G A13 V1.7 (Tool V3.0.0.4+)",
+                  "key": "Pixel_4a_5G_A13_v1.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1J",
+                  "hash": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 5",
+          "key": "Pixel-5",
+          "children": [
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "children": [
+                {
+                  "label": "Pixel 5 A13 V1.6",
+                  "key": "Pixel_5_A13_v1.6.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1U67EtpkEgMDPGv5U9RW7M8FP_hPhZ9CL/view?usp=sharing",
+                  "hash": "Mx1m2x9SUJV5b9qcoutVbbc1VqIXrsFXDOl8xP3q7+ZUfeL97fnZhoWQG/nE39XPElimuNUNLfGxyCbjK+oLQdzo/JB2gf2jQtdnzQyiAJS0Pb4m8hq1dl75o6i5Wff643TniIteeFaSLbmhELvREUpENwG6LN/8W6JjuODmvtkmmXlMvuXbDS92pSSqTdwJRkNmxXLI1IQcztOtSBZUgWvMxs5GAznXjg5/CwzibDEZiierkPF4oNez6fIAOh5gtDzTVbB2RNsX74YnzOajM32lz/NRtVFVOgn5AfXAg19sHN+vlnYQeo2cATip3XO8/dHvlxNB9/Tj9ItKUDLz+Q=="
+                },
+                {
+                  "label": "Pixel 5 A13 V1.7 (Tool V3.0.0.4+)",
+                  "key": "Pixel_5_A13_v1.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1J",
+                  "hash": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Pixel 5a",
+          "key": "Pixel-5a",
+          "children": [
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "children": [
+                {
+                  "label": "Pixel 5a A13 V1.6",
+                  "key": "Pixel_5a_A13_v1.6.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1emkvTrpII2kGer03Q01Qs8m954o07sYU/view?usp=sharing",
+                  "hash": "F3eBpKF/pXsk1FELtKHN25ill2yZYpBlWeVEITM2B0wYtnqL/g/trGuzdG0Kdx3urTqfPUpTq02pE4dr1L9LkQeLPAOTGavsg6u0c2j/ydb+SCwBnfslaISJT4WpEqYVjtryrtrKYsyqtCgo1w1cnpDYLzNaa6ZUwE2VEwVBRZuKm04Hx4uS+i3ZfbeKfV+jI66jyb24RHLafKggwvAVp9JJ6jI2BTYjyiYz8x2Uv3idwDwxtvtUQQhCKtCiSpI6o6vLBgdwcjW+gVVVerLg/opULiquh874b7RFMIENheIf5lw5V5dn291ddUdWh1JVmWog2Cs83y81xfin+6P4eg=="
+                },
+                { 
+                  "label": "Pixel 5a A13 V1.7 (Tool V3.0.0.4+)",
+                  "key": "Pixel_5a_A13_v1.7.zip",
+                  "downloadUrl": "https://drive.google.com/file/d/1J",
+                  "hash": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Samsung",
+      "key": "Samsung",
+      "children": [
+        {
+          "label": "Galaxy S9 (G960N)",
+          "key": "Galaxy-S9-G960N",
+          "children": [
+            {
+              "label": "Android 10",
+              "key": "android10",
+              "children": [
+                {
+                  "label": "SM-G960N A10_V5.6",
+                  "key": "Galaxy-S9-G960F-A10_V5.6.tar",
+                  "downloadUrl": "https://drive.google.com/file/d/1_cg3j7uGD9hDwQ5zQxHfOZVPY1vPZ4TB/view?usp=sharing"
+                },
+                {
+                  "label": "SM-G960N A10_V5.7",
+                  "key": "Galaxy-S9-G960F-A10_V5.7.tar",
+                  "downloadUrl": "https://drive.google.com/file/d/12Sq3byjZYhtVQCsO7itWkYm3-r5Cd_Jn/view?usp=sharing"
+                }
+              ]
+            },
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "children": [
+                {
+                  "label": "SM-G960N A10_V1.6 (Tool V3.0.0.4+)",
+                  "key": "Galaxy-S9-G960F-A10_V1.6.tar",
+                  "downloadUrl": "",
+                  "hash": ""
+                },
+                {
+                  "label": "SM-G960N A10_V1.7 (Tool V3.0.0.4+)",
+                  "key": "Galaxy-S9-G960F-A10_V1.7.tar",
+                  "downloadUrl": "https://drive.google.com/file/d/1K1mkb7Wsppp4c9oSYRXVebRyQ-Pbcx3N/view?usp=sharing",
+                  "hash": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Galaxy S9 (G960F)",
+          "key": "Galaxy-S9-G960F",
+          "children": [
+            {
+              "label": "Android 10",
+              "key": "android10",
+              "children": [
+                {
+                  "label": "SM-G960F A10_V5.6",
+                  "key": "Galaxy-S9-G960F-A10_V5.6.tar",
+                  "downloadUrl": "https://drive.google.com/file/d/1F9mn6qNd0DOvROec8oVJlrtqrtcCrC00/view?usp=sharing"
+                }, 
+                {
+                  "label": "SM-G960F A10_V5.7",
+                  "key": "Galaxy-S9-G960F-A10_V5.7.tar",
+                  "downloadUrl": "https://drive.google.com/file/d/1IlFmG2X5NLMwCewRib3VHjSOdtcnyh3d/view?usp=sharing"
+                }
+              ]
+            },
+            {
+              "label": "Android 13",
+              "key": "android13",
+              "children": [
+                {
+                  "label": "SM-G960F A10_V1.6 (Tool V3.0.0.4+)",
+                  "key": "Galaxy-S9-G960F-A10_V1.6.tar",
+                  "downloadUrl": "https://drive.google.com/file/d/1zngNPzAkNVIleqnFnzNuwEJ83P90498s/view?usp=sharing",
+                  "hash": ""
+                },
+                {
+                  "label": "SM-G960F A10_V1.7 (Tool V3.0.0.4+)",
+                  "key": "Galaxy-S9-G960F-A10_V1.7.tar",
+                  "downloadUrl": "https://drive.google.com/file/d/1BCW1ydHcXvmBpsCBzpzntjEzkpPb4auN/view?usp=sharing",
+                  "hash": ""
                 }
               ]
             }
