@@ -404,29 +404,29 @@
               "children": [
                 {
                   "label": "SM-G960N A10_V5.6",
-                  "key": "Galaxy-S9-G960F-A10_V5.6.tar",
+                  "key": "Galaxy-S9-G960N-A10_V5.6.tar",
                   "downloadUrl": "https://drive.google.com/file/d/1_cg3j7uGD9hDwQ5zQxHfOZVPY1vPZ4TB/view?usp=sharing"
                 },
                 {
                   "label": "SM-G960N A10_V5.7 (Tool V3.0.0.4+)",
-                  "key": "Galaxy-S9-G960F-A10_V5.7.tar",
+                  "key": "Galaxy-S9-G960N-A10_V5.7.tar",
                   "downloadUrl": "https://drive.google.com/file/d/1xUfv41PcMK3r3ypl__oXf4nFxa17iQGF/view?usp=sharing"
                 }
               ]
             },
             {
               "label": "Android 13",
-              "key": "Samsung/Galaxy-S9-G960F/Android 13",
+              "key": "Samsung/Galaxy-S9-G960N/Android 13",
               "children": [
                 {
                   "label": "SM-G960N A10_V1.6 (Tool V3.0.0.4+)",
-                  "key": "Galaxy-S9-G960F-A10_V1.6.tar",
+                  "key": "Galaxy-S9-G960N-A10_V1.6.tar",
                   "downloadUrl": "https://drive.google.com/file/d/1F37WJix9amYUysa9AeUbQTQLqeHCzJK9/view?usp=sharing",
                   "hash": ""
                 },
                 {
                   "label": "SM-G960N A10_V1.7 (Tool V3.0.0.4+)",
-                  "key": "Galaxy-S9-G960F-A10_V1.7.tar",
+                  "key": "Galaxy-S9-G960N-A10_V1.7.tar",
                   "downloadUrl": "https://drive.google.com/file/d/1D-2bjG9i3kD54E8Sr__XhVsUf0mKM1w3/view?usp=sharing",
                   "hash": ""
                 }
