@@ -47,7 +47,8 @@
                   "key": "Pixel_3a_A12_v1.7.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/1.7/Doma_A12_V1.7_Pixel_3a_official.zip",
                   "hash": "etGx/7uhSj0MongAj35BR1lVwvp4DDFmXbs3xp3Bz5scHWFscdx0EcyuHu7SNApCNdI8CN7lGoU0xFsOCD36DF+rMQdTB7aH7IPbdmD56IN40efvGojB8Bc/Jai4Cljb4mkpmxLVqQWWbIwbDBQ6PHIySr28oZUADM+S3xNTptJQx0aaU6sFQUOqBV9tZe8ktRz9IR5/03zEy9FIhsoG07fyu6M8YyFAJa145VcxaZ2tkkfDYhQ6QYLkojBMkCXssjVDTz2xyFEMcb0cGeMznOTDT6AcGQVttQVF+AWK5vIMXT3fuT+xPXCkRK64nMvf+nAtuKo4FFozWKHn7P5b2w=="
-                }, {
+                },
+                {
                   "label": "Pixel 3a A12 V1.8 (Tool V3.0.0.6+)",
                   "key": "Pixel_3a_A12_v1.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/1.8/Doma_A12_V1.8_Pixel_3a_official.zip",
@@ -98,9 +99,10 @@
                 {
                   "label": "Pixel 3a XL A12 V1.7 (Tool V3.0.0.4+)",
                   "key": "Pixel_3a_XL_A12_v1.7.zip",
-                 "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/1.7/Doma_A12_V1.7_Pixel_3a_XL_official.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/1.7/Doma_A12_V1.7_Pixel_3a_XL_official.zip",
                   "hash": "ch97PHb4BZHz6UJF8Fl3p67p5ef67mb7FiKTfAzVvqN9MqcHeHmpPllzHxAw1M+B/nUJIGfs06GISJcvFD5OeZutwEJF5az7MnbRuSm61k/bN7BvM8lW1TyaJVmX4jdWpgS4L4qNU68dD122ltIWuFChZoOn8kUmc/psBpEoxrtWed8qlhfbr7/U06QVe+2ZzWM15S0bfX3f5937cn6485ZbUx4wCMc0CEJPvoHWVoKkrIr3w6HZ5DqLdyoXuB/6vsCkA0k5rpTz4igr8FcrCHbmttIW+hOHh9Lxdnhrx85ZlZvm4D/JK5Zh/3V72Nu2g7yrg7DmR68GFUyBEuUH+A=="
-                }, {
+                },
+                {
                   "label": "Pixel 3a XL A12 V1.8 (Tool V3.0.0.6+)",
                   "key": "Pixel_3a_XL_A12_v1.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/1.8/Doma_A12_V1.8_Pixel_3a_XL_official.zip",
@@ -153,7 +155,7 @@
                   "key": "Pixel_3_A12_v1.7.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/1.7/Doma_A12_V1.7_Pixel_3_official.zip",
                   "hash": "JfnIXd9EFybZzjbGXYX7b+6DGnhgAHDsssgJzSR/KxZtffJ694ksO93vYWh/8d2SytQKqXEc1j4J5+9rKwMUPK99F2BPieGaIEz9/tvGwf1m0bej2xncQQdl53NofxzG79FfY5AF83ogEPo3JCIa47NQY+32x0X7jOYTezza7RS4lVK+6IhomAI7D1/ml3uXJlVkr2TbX/5/wBUtPmQqn1e3I/F1pzgYY9xRTZbahgudm7BaXO2MICynCamcWz5b0YvDOqIZUOKNp9azIRUtBwqg53J7pfphfa/oOFulSJcj/uBiQpxVI04IT4ZTYsWJLZGllCo1ktdsZmi2bkvQuA=="
-                }, 
+                },
                 {
                   "label": "Pixel 3 A12 V1.8 (Tool V3.0.0.6+)",
                   "key": "Pixel_3_A12_v1.8.zip",
@@ -176,13 +178,15 @@
                   "label": "Pixel 3 XL A10 v5.6",
                   "key": "Pixel_3_XL_A10_v5.6.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.6/Pixel-3XL-crosshatch-A10_V5.6.zip",
-                  "hash": "Fhr4DFKGh/kjyJOezTyZESrg56Y6Jyfp+kBMk5pjJDoEdQr91slXkmFZelOncWW1IkSc/LtXe32Rdzep2dHUdUOsgAJ+yz+/KLmuX2/G1uRXT75FnnXOKa5JacH1EyX+3CGCilOr/6NlKeZfBJmLKjNKUuAd50EU0elGfXZYw83WheLUjbhkk4yIXHGRHRPn0HireLv0FqFQRlH3KwfEXHODshQp2EbZ2gYRTJ6hEpUwlS3884QkBuy9f3Dmjz6TmMWs7QOVRtWnuj1R/n+9uWxse6rg9m7WrN8PU8hlJArV0I/AX3okLH7NjGfuhH3TPZTLLR/qgawoBHhK9tUSWg=="
-                  },
+                  "hash": "Fhr4DFKGh/kjyJOezTyZESrg56Y6Jyfp+kBMk5pjJDoEdQr91slXkmFZelOncWW1IkSc/LtXe32Rdzep2dHUdUOsgAJ+yz+/KLmuX2/G1uRXT75FnnXOKa5JacH1EyX+3CGCilOr/6NlKeZfBJmLKjNKUuAd50EU0elGfXZYw83WheLUjbhkk4yIXHGRHRPn0HireLv0FqFQRlH3KwfEXHODshQp2EbZ2gYRTJ6hEpUwlS3884QkBuy9f3Dmjz6TmMWs7QOVRtWnuj1R/n+9uWxse6rg9m7WrN8PU8hlJArV0I/AX3okLH7NjGfuhH3TPZTLLR/qgawoBHhK9tUSWg==",
+                  "disabled": true
+                },
                 {
                   "label": "Pixel 3 XL A10 v5.7 (Tool V3.0.0.4+)",
                   "key": "Pixel_3_XL_A10_v5.7.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.7/Doma_V5.7_Pixel_3_A10_official.zip",
-                  "hash": "UxscAcFxox+pXSAvKrR8ZGHuQCHhcWjjSp7+jCN/qjz9RweDuJXGyiJxAzoQjDSlrfzy8AUn+WAd27bl+ZVuTrypZr46IRDftitd6/y2zMSJF+arkj7f4aDEkJ1c3kgwcbGfRsK3qyl7Eg/Q37wlTg4uMAbsFwQISAO8Rd/UyJEgJB9Ik8D+dNnC3cdiK9B0pqk+tp7cwJM7TLlb/yTPslcp/2aiHXvE7JocCvS09/LCGjaN74ZolHphQojn1v0mlCnez0W/4ZYwEe2nI5ZKEDDY2ZN1UCX0ZAOTjWTSIuI8by6rNXDXOaT3bKGIwtqebkosGDhsddKUMMe7ObYF9g=="
+                  "hash": "UxscAcFxox+pXSAvKrR8ZGHuQCHhcWjjSp7+jCN/qjz9RweDuJXGyiJxAzoQjDSlrfzy8AUn+WAd27bl+ZVuTrypZr46IRDftitd6/y2zMSJF+arkj7f4aDEkJ1c3kgwcbGfRsK3qyl7Eg/Q37wlTg4uMAbsFwQISAO8Rd/UyJEgJB9Ik8D+dNnC3cdiK9B0pqk+tp7cwJM7TLlb/yTPslcp/2aiHXvE7JocCvS09/LCGjaN74ZolHphQojn1v0mlCnez0W/4ZYwEe2nI5ZKEDDY2ZN1UCX0ZAOTjWTSIuI8by6rNXDXOaT3bKGIwtqebkosGDhsddKUMMe7ObYF9g==",
+                  "disabled": true
                 },
                 {
                   "label": "Pixel 3 XL A10 v5.8 (Tool V3.0.0.6+)",
@@ -231,7 +235,7 @@
                   "key": "Pixel_4_A10_v5.6.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.6/Pixel-4-flame-A10_V5.6.zip",
                   "hash": "Q8SwZbZEqldtDaIYOZ7M+g0UYpIbtM0KDgMPrFnbBLOG1ktKtmeGNjf1agxxpgnAa+FAlmEiEbif+49nrsu92MHQjLdGqAeYZmFyCRLcrWM2z0y8NCsEbzbOFEfIUNPmwlc/5jBGSEYMYF6ZIceYNcXSgKfWH+zVuj6syLsZp//5ThYkMlu0uxO2rd7wX5Q0Hf5X0Z2BqkpYrKfYrV//mEBSNh65F8QtiEOMkoYavx0/0t/87cqWOk0xWLHNIuBB4YkcnHJ2wNF7gVE4DBqy4A78cl3uTfvGE21Z9+VoWkVdgHnnch9YcCRzRGy3wJQpHhG1LegwY9kWNharhkYV7g=="
-                  },
+                },
                 {
                   "label": "Pixel 4 A10 v5.7 (Tool V3.0.0.4+)",
                   "key": "Pixel_4_A10_v5.7.zip",
@@ -285,7 +289,7 @@
                   "key": "Pixel_4_A13_v1.7.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.7/Doma_V1.7_Pixel_4_A13_stock_official.zip",
                   "hash": "IMDQ+nEOKL6oiE1Ssve/ZkrVgdrWP+prj8wmyxulckmeNH/XBW2IrwUrZHBa+QIv01BzJWNWbHh68f8jDnHd7IfmDqZ5KpLsGna7WRmIlBh8Edc3geVSu5Fd9NHNEJjRJgE7z7o6lziUExtr25iriIcfiin6fBTcUcgcsCc6F3B9+JCY6AjJTd0XVKvpOeRVNNMPTCS6lN4umZDM1uyngrGryNKGs09YX7FrtFsxcVnxt/c6lwsZJWGcbnjTIDQkGNz+4Q/THPDNX8vvjABSetiqfaRdK+IjfcUOonVB61IaH5tQ4DGUWMdS4i52wnJ3rpzHGI7qch2UzLXEGwje0Q=="
-                }, 
+                },
                 {
                   "label": "Pixel 4 A13 V1.8 (Tool V3.0.0.6+)",
                   "key": "Pixel_4_A13_v1.8.zip",
@@ -309,7 +313,7 @@
                   "key": "Pixel_4_XL_A10_v5.6.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.6/Pixel-4XL-coral-A10_V5.6.zip",
                   "hash": "gL6U7gGNYsE9xW5BTnxkMozhYG2JOqf+niQqTs1PU0PF82pvW9mNvtMk2HBBHT1jSLYyq8l8cF9MjIIaOVylDkZ+zCWcT31ODVKB/h34zbZBH959RrRDomwVXq8BxVp/yajBEEQk93h/K+BcJ5qfudkC2VogiYbNJ3wwzzox7HtgeLm+i+1k102vYyn0szmw/Z858zJBoGXthl21uO9i6JyXEbRaCRMj17wgT9hb7MA6om2Y+8NXZhOOw6YSkZ2yNQJsUFEweAXzPl6gQl4sEcjEe6LAoTDtTyDzQTdrHm7wk+GmalJvCxGbZZk2HUbalOfziWvOiOIy8hn8AZ9L1Q=="
-                }, 
+                },
                 {
                   "label": "Pixel 4 XL Android10 v5.7 (Tool V3.0.0.4+)",
                   "key": "Pixel_4_XL_A10_v5.7.zip",
@@ -478,7 +482,7 @@
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.6/Pixel_5a_barbet-A13_V1.6.zip",
                   "hash": "F3eBpKF/pXsk1FELtKHN25ill2yZYpBlWeVEITM2B0wYtnqL/g/trGuzdG0Kdx3urTqfPUpTq02pE4dr1L9LkQeLPAOTGavsg6u0c2j/ydb+SCwBnfslaISJT4WpEqYVjtryrtrKYsyqtCgo1w1cnpDYLzNaa6ZUwE2VEwVBRZuKm04Hx4uS+i3ZfbeKfV+jI66jyb24RHLafKggwvAVp9JJ6jI2BTYjyiYz8x2Uv3idwDwxtvtUQQhCKtCiSpI6o6vLBgdwcjW+gVVVerLg/opULiquh874b7RFMIENheIf5lw5V5dn291ddUdWh1JVmWog2Cs83y81xfin+6P4eg=="
                 },
-                { 
+                {
                   "label": "Pixel 5a A13 V1.7 (Tool V3.0.0.4+)",
                   "key": "Pixel_5a_A13_v1.7.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.7/Doma_V1.7_Pixel_5a_A13_stock_official.zip",
@@ -511,8 +515,8 @@
                 {
                   "label": "SM-G960N A10_V5.6",
                   "key": "Galaxy-S9-G960N-A10_V5.6.tar",
-                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.6/AP_SM-G960N_A10_V5.6F-All-in-one.tar" 
-                  },
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.6/AP_SM-G960N_A10_V5.6F-All-in-one.tar"
+                },
                 {
                   "label": "SM-G960N A10_V5.7 (Tool V3.0.0.4+)",
                   "key": "Galaxy-S9-G960N-A10_V5.7.tar",
@@ -561,7 +565,7 @@
                   "label": "SM-G960F A10_V5.6",
                   "key": "Galaxy-S9-G960F-A10_V5.6.tar",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.6/AP_SM-G960F_A10_V5.6-All-in-one.tar"
-                }, 
+                },
                 {
                   "label": "SM-G960F A10_V5.7 (Tool V3.0.0.4+)",
                   "key": "Galaxy-S9-G960F-A10_V5.7.tar",
