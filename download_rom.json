@@ -304,6 +304,11 @@
                   "label": "SM-G960N A10_V5.8 (Tool V3.0.0.6+)",
                   "key": "Galaxy-S9-G960N-A10_V5.8.tar",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.8/AP_SM-G960N_A10_V5.8-All-in-one.tar"
+                },
+                {
+                  "label": "SM-G960N A10_V5.9 Testing",
+                  "key": "Galaxy-S9-G960N-A10_V5.9.tar",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.9/AP_SM-G960N_A10_V5.9T-All-in-one.tar"
                 }
               ]
             },
