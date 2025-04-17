@@ -291,6 +291,24 @@
               ]
             }
           ]
+        },
+        {
+          "label": "Pixel 6 Pro",
+          "key": "Pixel-6-pro",
+          "children": [
+            {
+              "label": "Android 13",
+              "key": "Google/Pixel 6 Pro/Android 13",
+              "children": [
+                {
+                  "label": "Pixel 6 Pro A13 V1.9 Testing",
+                  "key": "Pixel_6_pro_A13_v1.9T.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.9/Doma_V1.9_Pixel_6-Pro_A13_stock_official.zip",
+                  "hash": "TGnlir5zfWQaXy0DPhNttvH6O30sZfha8NXu7JwnLSfsICTIGv+fy4X9co0uy9qwnWGjh2XTvAP/6ztPBHlcCHCgy5tL2NNDvexlo9CiSy5yGjd0vBcq/aLeO6aXicpvc2/j1cKC/6QqcFcJndKjv1bV0/WI37FplJyF7OZZoq2yCsvmqvUE4+HefoRLPEFq7+47GkNdty+ihY58hPHpsbMmxVGN8BR3w0auLFNQm+sqjGViwM1BKO2l3Z73ShisJ9HiYlnxJ3rLQy3+O2/T9dsWDNctheNUl6j3t01Wb92yPsaKSeswcaeTK5ljgp1UGnkdSg8unPXL99bv2i1SGg=="
+                }
+              ]
+            }
+          ]
         }
       ]
     },
