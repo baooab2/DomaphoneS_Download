@@ -403,7 +403,7 @@
               "key": "Google/Pixel 6 Pro/Android 13",
               "children": [
                 {
-                  "disabled": true,
+                  "disabled": false,
                   "label": "Pixel 6 Pro A13 V1.9 official",
                   "key": "Pixel_6_pro_A13_v1.9.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.9/Doma_V1.9_Pixel_6-Pro_A13_stock_official.zip",
