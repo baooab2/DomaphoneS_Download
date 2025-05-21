@@ -41,12 +41,6 @@
                   "key": "Pixel_3a_A12_v1.9.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/1.9/Doma_A12_V1.9_Pixel_3a_official.zip",
                   "hash": "DhCqA7jMg0s672Xf1PS2xx9GzTYWhD46b3Auq0LqrROL+zHjYOijSNLD3imQ/H76C0q0IBeaKiB2M1NNyjYlh181h9TwtVqfOXwwj9yRGGP8iysRvi6qrkiKzIRiwaNKndCgfw1mAwXpgNnO1oY08AEh0Nv/Ax3QlPmY+nBIO8U3/Awp7Aibv0XFLlUxVaDB5DAxfu1ej5L+0c9UOVk44Aoix+AKbej68Zax3yyUco95rda+dYp5MF8osgcELo7Xl+MBT4qPs7YFKQ2KxYwqkoh9ofxjgAXD+O2Gwv3Frcg6DoZdNNZOruU+5KKEzfou8cBqtaSPsg10VjVoIHvi3Q=="
-                },
-                {
-                  "label": "Pixel 3a A12 V1.9 T4 (Đang thử nghiệm)",
-                  "key": "Pixel_3a_A12_v1.9.zip",
-                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/1.9/Doma_A12_V1.9T4_Pixel_3a_official.zip",
-                  "hash": "gCPPjHAN5EXBZoISc1cOFKXKQl9RNPOvHrESbTS/plTixpPXhw3JkcV5gFcFjdA/gSHZi9WWM/oKWGH9VP+POFgULOwDZ52QdviUtOuPt5jnlUAZWqe8rAofOHGEfNWz6fFwo80cr/3CCvknU/mbM8F70D5e0xkOHe8Ymg8r50pX7F/TUAuaI0tupjON8a/DF5JltbYfjfjY9AfaTfzAv7KJDf5OZgGWyQy1ljG5sUo9qY8IU11clMIm2JnGjQR9+XyaSdb4Fq60jHWijSojsYr1VTZ4d3s6IpP9vqIhuMkApg99igiICHiZEV+JO5+445zlKE5pG+NQiQWT0bOLjA=="
                 }
               ]
             }
@@ -444,13 +438,13 @@
               "key": "Samsung/Galaxy-S9-G960N/Android 13",
               "children": [
                 {
-                  "label": "SM-G960N A10_V1.8 (Tool V3.0.0.6+)",
-                  "key": "Galaxy-S9-G960N-A10_V1.8.tar",
+                  "label": "SM-G960N A13_V1.8 (Tool V3.0.0.6+)",
+                  "key": "Galaxy-S9-G960N-A13_V1.8.tar",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.8/AP_G960N_DOMA_A13_V1.8-All-in-one.tar"
                 },
                 {
-                  "label": "SM-G960N A10_V1.9",
-                  "key": "Galaxy-S9-G960N-A10_V1.9.tar",
+                  "label": "SM-G960N A13_V1.9",
+                  "key": "Galaxy-S9-G960N-A13_V1.9.tar",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.9/AP_G960N_DOMA_A13_V1.9-All-in-one.tar"
                 }
               ]
@@ -482,13 +476,13 @@
               "key": "Samsung/Galaxy-S9-G960F/Android 13",
               "children": [
                 {
-                  "label": "SM-G960F A10_V1.8 (Tool V3.0.0.6+)",
-                  "key": "Galaxy-S9-G960F-A10_V1.8.tar",
+                  "label": "SM-G960F A13_V1.8 (Tool V3.0.0.6+)",
+                  "key": "Galaxy-S9-G960F-A13_V1.8.tar",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.8/AP_G960F_DOMA_A13_V1.8-All-in-one.tar"
                 },
                 {
-                  "label": "SM-G960F A10_V1.9",
-                  "key": "Galaxy-S9-G960F-A10_V1.9.tar",
+                  "label": "SM-G960F A13_V1.9",
+                  "key": "Galaxy-S9-G960F-A13_V1.9.tar",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.9/AP_G960F_DOMA_A13_V1.9-All-in-one.tar"
                 }
               ]
