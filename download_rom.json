@@ -13,16 +13,22 @@
               "key": "Google/Pixel 3a/Android 10",
               "children": [
                 {
-                  "label": "Pixel 3a A10 v5.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 3a A10 v5.8",
                   "key": "Pixel_3a_A10_v5.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.8/Doma_V5.8_Pixel_3a_A10_official.zip",
                   "hash": "Sw0ZT1RaJeyHZxXjNOLR20mvplZOIfFrlB8V4H5u4fAoWXekIv2o6aehbcNzoVl36nYWA3nK/yz8yCbKsbGNbcaeKxJwcKuoc5OfzfY/l3Wqn+XTo5QZr241nA997le5SqQJqr+HsT83xDY7cjlE6Z8sUxX3XrQVmJShTccGrwOHMPQI/GnsukXbQ9eNzNtfpry3uYtdG7mI3+Qj31gIL/g7zZZ7goQfEqPHCM8FYMo2eyzrkU78QXkuEe1qdyKzIDKS0R7qq4buCODEINv1V/4Cn+n3s8atuK51CLFFlZ92QFYny1eVGu1d1uuwEN2yT5MU0eUXZFjQgf7Y8QrvHw=="
                 },
                 {
-                  "label": "Pixel 3a A10 v5.9 (Tool V3.0.0.6+)",
+                  "label": "Pixel 3a A10 v5.9",
                   "key": "Pixel_3a_A10_v5.9.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.9/Doma_V5.9_Pixel_3a_A10_official.zip",
                   "hash": "IckOKcogBd9mbeEl2pQ6BvL+Gnxo4AMW5KnaUjH1SJExgVNI2fny3GcBtTXR5+WQGVC+Um97wqVoXValj7Or0GCVbaYxLYW5XVeymRJHIogwwaabOsf4RK+LosbuS4WPSkMf5G5nB7hTYDG8qJMLRPuPDTk0dr2wJZ0vRVZAKt3bftUq81OLhKWfUj7QGXzlRrvLa5jLKcnTOqisOzkqdnwgWo7ZRr6uutUzDnfncI7rU9DY/aLbTvLKf2yAZ5NK6JAKSF7Nu1utxBpQaPbFDrQWLTRM6HSp7sparb4MXTu5ovMfh2jaLQjUeNruRnsh3eqQ5ahC2kWWOAWi/zz63A=="
+                },
+                {
+                  "label": "Pixel 3a A10 v6.0 (Support boxphone)",
+                  "key": "Pixel_3a_A10_v6.0.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/6.0/Doma_V6.0_Pixel_3a_A10_official.zip",
+                  "hash": "HIJkdu2ab+NmelEQXtz4uRsTLBgLGLnjxb2E830jyS883TAFVi9H+F3N4df9vRDPWWIyXgq/2DVNLRawUc4tYyCeQOqEHa7kaEbkczALWRv8+91CGrZKAHRif7TOD1yFeuQ78ihveRYdYtalgea2thqogGmJZNUjNZjl42HYoP2ooAkpOHp719819mxWYjY57Bg2uUvd927G0uJSfnkFelv6oG1rRXoQ0kEmLJITCLuIN/LsBsyeF6BY8USWcFUI0UpZaI0rPKruTBlaFihGOyo6gO0vGIOBuNYbiefneDTtueYgZbGFUQG0J8vRNYBX028aRAP9xlYL8P6h/TIrVg=="
                 }
               ]
             },
@@ -31,7 +37,7 @@
               "key": "Google/Pixel 3a/Android 12",
               "children": [
                 {
-                  "label": "Pixel 3a A12 V1.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 3a A12 V1.8",
                   "key": "Pixel_3a_A12_v1.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/1.8/Doma_A12_V1.8_Pixel_3a_official.zip",
                   "hash": "fh6qttjgHDY+Hn+uCm/SLAZ3SGEQd038eoX4SGWBhb+gdtstsfx9amyYHJtTVJ6HPJbu0ZZbWebuBRATmYd0TQkD+7S7qEnMiOal1i0pVOWX4fN3EsE6HDa7AFW9CUNoIFdvUksmBnEYnWvS8kxeN2KbkggeildahgCvQI+omUrhBJlK+a2oeCHCbJiCT/koHh3Lhv9Cpl5gjCvHsAvt22htdAdr+QCV68a4gjLf2+9dbslEgh5SNh6xEB0oTCvu/YZH7TKGqkD3MGTt+ct2JDmcnKTdRMKcobZw3OQHJHwnT5G3VAI09Ds/FJA7CxLDc/Dn+AujbAG5l6S1nbv0KA=="
@@ -41,18 +47,6 @@
                   "key": "Pixel_3a_A12_v1.9.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/1.9/Doma_A12_V1.9_Pixel_3a_official.zip",
                   "hash": "DhCqA7jMg0s672Xf1PS2xx9GzTYWhD46b3Auq0LqrROL+zHjYOijSNLD3imQ/H76C0q0IBeaKiB2M1NNyjYlh181h9TwtVqfOXwwj9yRGGP8iysRvi6qrkiKzIRiwaNKndCgfw1mAwXpgNnO1oY08AEh0Nv/Ax3QlPmY+nBIO8U3/Awp7Aibv0XFLlUxVaDB5DAxfu1ej5L+0c9UOVk44Aoix+AKbej68Zax3yyUco95rda+dYp5MF8osgcELo7Xl+MBT4qPs7YFKQ2KxYwqkoh9ofxjgAXD+O2Gwv3Frcg6DoZdNNZOruU+5KKEzfou8cBqtaSPsg10VjVoIHvi3Q=="
-                },
-                {
-                  "label": "Pixel 3a A12 V2.0 T1",
-                  "key": "Pixel_3a_A12_v2.0_T1.zip",
-                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/2.0/Doma_A12_V2.0_T1_Pixel_3a.zip",
-                  "hash": "hz6IdcE861XvvY4EqnWC0ZN+AjKdvho002Cj6IL2Gxi4y7EttQdIWguakZk/1wU5CfYBPFqfRrdz1fqlV9gPvkQiuQd9UvPFyQTId5jWqaE8Knw4lubFlONLDAFu4rheOe2fkxqD0o+0hJ4VUVSTE1QGL3dQlI8ViWZ29weEqLZ8Cp3+yFco1heNP56l/WhEdnif+CuSeQt3z3c4ADDmox2x7pUCSjYOFI57fGTIvjC/RMtk/n1vFFxoIr04yU4orfnQvBkTVkEXPUcBd3jj6oXOChWU7PAO03JWml1g3WZWXjQn6EAsZN8fUxWhgIzqwcgE7UQD3QLWbzRwT6JIJA=="
-                },
-                {
-                  "label": "Pixel 3a A12 V2.0 Testing",
-                  "key": "Pixel_3a_A12_v2.0_Testing.zip",
-                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/2.0/Doma_A12_V2.0_Testing_Pixel_3a.zip",
-                  "hash": "FsMIdLSBC39JV2p/tIO6gWGV+rqi4vOt4SN9joaytSHNTf/FXiOuKPLO7zOvH9dmo6APsCMTchcdanszQtHXOgVuguJLsS7K1z1pAuBMki1lLfGGcWLGNtEWaGO963tkiy1G0Xt+vSlkRGK02rszLFLSSHUvv7v0OCa7XeJrgnmmzx8NS4UTolkosOud+C4/0bPhTnjA4RKbJuOMzFANhONEySmzTj0evxPDfx13Elqa9NTt8G6/KpbRFzgq90UpDsYre73AYQZMrXYshVbiMO1JRQesjxwXi3m9WwWDqcGMf7t4xhtL8CH5ljS6/RwgSaCihDd7OhzWRCpS5sieXg=="
                 }
               ]
             }
@@ -67,7 +61,7 @@
               "key": "Google/Pixel 3a XL/Android 10",
               "children": [
                 {
-                  "label": "Pixel 3a XL A10 v5.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 3a XL A10 v5.8",
                   "key": "Pixel_3a_XL_A10_v5.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.8/Doma_V5.8_Pixel_3a_XL_A10_official.zip",
                   "hash": "elHaiNMgIu3UqDaVCVG6uzoLn8FSWnNlfe4DtDpZSKyY7eeqdmcaIc2oJd3rjHYJPkvC/jPOolYVZzjN52sETjKWwxBzDkXNlP4TcuA6+ut8DJbl1p0Y/GAgpQY7GMfoGSazfG65r1GWMj94tCOYaAPxL3cNSQZi5qZrHYaehxbhWE6/OQuykEo1f3DX0oApemEDdm/ZcrfXRqXSkE3HXEICwj/o+hSy+PtU9rB4WbpdU2Z3UPeQcOisoplW9I9E7SVQK+zYjanD6iTIums7VbMg4eQpUxr7tE+ZgoA1L6MpuKXkgsppqC/HfxtrZqBrPnfNwvb9rstZIarZpECSqA=="
@@ -77,6 +71,12 @@
                   "key": "Pixel_3a_XL_A10_v5.9.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.9/Doma_V5.9_Pixel_3a_XL_A10_official.zip",
                   "hash": "WZS2kbdObzLdibzo5zAiJh66aig2IbbnJLm8H8X8e700FOr4LQn7FEhnPb66KEIDQRR/9Zo3sZxeSsJcKUZl8N80HVAWOCxa2zvtzK7zI2SynoFBveuLvYgfcSu5I8BND7LPJLZv1JuVbVX3VSZmZcxkupiMqhAWe82B8qLhtJg6rewqQuTYNhv1lqanui5lSd0YCbQsvgOVcYtzHohlq/Kx0IKboTZGkZMivXdDKypVxP6eUd4IBNqiIqZdDtPSRmhQpY91n0XdJT7tvtz7EEC3Sl9r3P+tzxD+gvNfizJPg1rLY2tdnYeHcsTJykXaHYytTLq/Q1trFh7T/FNHNw=="
+                },
+                {
+                  "label": "Pixel 3a XL A10 v6.0 (Support boxphone)",
+                  "key": "Pixel_3a_XL_A10_v6.0.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/6.0/Doma_V6.0_Pixel_3a_XL_A10_official.zip",
+                  "hash": "eqUdnjYPOjcgRW8g4ifShiKygUVqX4LHMgqRe920UcNPCGU4WmivRg0pSLQ9AKZNxRxEp8pZGCSSgv7OJClJavKjG7S+JgOLky+61047EEW3zqlG7SgbOEAupEEyacsGX6w6nb3ryESSuIn6XX1ii0k3YI7Fpec/F4mfBg/eAogmFvZIDM+9E3rO0YRwhHQ1swj3sIi6v5u4DGs3elktpYBAM99bQPDTblPVoP1E/j0PrFunh838mcADVhTGSva87PnQwcXCzxGbqhCcJSGu+vf2uH8hxWUZy+RVfOda+LaTA9L+eoUjjN7bPPAodqlQ1L0gjhnDn+8Orn9FqAQGww=="
                 }
               ]
             },
@@ -85,7 +85,7 @@
               "key": "Google/Pixel 3a XL/Android 12",
               "children": [
                 {
-                  "label": "Pixel 3a XL A12 V1.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 3a XL A12 V1.8",
                   "key": "Pixel_3a_XL_A12_v1.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/1.8/Doma_A12_V1.8_Pixel_3a_XL_official.zip",
                   "hash": "OXdSMvUjCjC4Zw8MrrKCZSvAyn/i0K8P66eGXsa3M0dHb42tkYsCKb52fVJ/oYGlzhTSoaWbsAhyJ3/qUSSihNpaiTffMbreI4ESWEOBOXzTvTgiOFuMRlHQ2EHyWIT7ImlUOjoP1LuUGhtKHfCqmXQjx9E5JkFxsQPTo83vIwiUhuC65zsvDFgVVI25FW0XHtoYSp1KQ7xyJNqO8yF3CPTzSysdcunYvc9r1qe79wLMn2CC5keyi9q4oA6nOp5vMjVw+pQEwZqa2ApgzbfTfWUBBaPkUYYVYAkqBRFmKJNx60FnXa0QczD5zVmZFR4A8TyGLdTBJCsI3bJObmvdXg=="
@@ -109,7 +109,7 @@
               "key": "Google/Pixel 3/Android 10",
               "children": [
                 {
-                  "label": "Pixel 3 A10 v5.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 3 A10 v5.8",
                   "key": "Pixel_3_A10_v5.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.8/Doma_V5.8_Pixel_3_A10_official.zip",
                   "hash": "VtHJ5SOSuhpVifD4aqd80CfeJozwxiFp7HzdbS4Fzdi3IOST7yIJPut3RtGbgt2ARcZKO9j4S3/xFcCDVb7In8NoNIBSwrrHwZctQRcZgw+wfXbs98Ta10TpcKs7Kflw+xfUIdNm+rGeGgcz5YXqZNRZgMZa2VWU5ueMc0wdjhHTecTyD0e3yyP+CRHdtmqQgz6ht1aLl9BKSKAoI7JL5NYGdir+h0ZnJcnN1sSrVh1eswxVPSxe2vRQGZTQjgjQfvxw8mvJhdtxb00dxjye5cu5nVDoyow1DqzMsdj4if1J8lcJn4K+X1zsaIb4a/CUZ1yECsPqV3BX1sU/kO9KUQ=="
@@ -119,6 +119,12 @@
                   "key": "Pixel_3_A10_v5.9.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.9/Doma_V5.9_Pixel_3_A10_official.zip",
                   "hash": "QyKSHpNOT/YvkFYXvP83mnsCDMjXHIXl7scOSgxKOyMw74e1cKLE5iZkRYXEY8Snce8f8Yuv2NH6rV+eF5tRsTCyhJeynOIhgTY5YBlMbgTm/xq164cSx9UzM8nD3jD5qx2WRb6xmHua5tmlCTtNyH+O+2hEJPekn3v86ncK262KJBC88M8ka3YQTkhw7fLM7ptz1p5zV0L6paDZnXxk4BiAv9ak19xCsLJfhd50pEMBlfxYQcogGyYCyLs74vF7MsZXZLxcQ6pTgnkijGEPJ5vb4jVbkx9WYEylYTrytxKK5c+IpdALz1gcxA8ssBETnwCD3Ad1Wy8dVwCr6GdahA=="
+                },
+                {
+                  "label": "Pixel 3 A10 v6.0 (Support boxphone)",
+                  "key": "Pixel_3_A10_v6.0.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/6.0/Doma_V6.0_Pixel_3_A10_official.zip",
+                  "hash": "aqVXTQyVRoB60DBG5IIL7zyAhOj5kyKVlkIjouICdqMr32jLftx1xOiCzSD3bbjPLXUixcrCAKcWs//GZURQEUH52/lDpTQ/UCgwpJdECRADLWkO/D5WHfJDRGqqsVKto+GQ9295R5tcXvTqlwxm11S3Ds0w5322cgF8u0GYsTOFQU6uBpXZYz7xt8EHKmiSJb36SpMIYIY1v7ygAGXp9vf30Jsnd44C6MDyJjLtOPIa22Vt78TSE+3fWawkwskbZ5Neahc7srxX83LdB7QcnCPAn+QpondaM2XzJk991t+a+T5u4uCUnn/by7x2uuJLxM5zH8+7F9ha6nS4g+zkAw=="
                 }
               ]
             },
@@ -127,7 +133,7 @@
               "key": "Google/Pixel 3/Android 12",
               "children": [
                 {
-                  "label": "Pixel 3 A12 V1.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 3 A12 V1.8",
                   "key": "Pixel_3_A12_v1.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/1.8/Doma_A12_V1.8_Pixel_3_official.zip",
                   "hash": "YptzlllW15gAl4mhvSk5ZfeG88UDvSNYI51cRLP5mZ+TgGhFeHRXJMGqU23eVFkAndEhxEjc6bfiPtaLIpwIPD8bJ2h/9zxLqp/wdJ/gA0qN1wzFQbfDTIaw3pT50WBEsALDV70etMwvt+pthaANepzHc/6v3S6hFDjbHAyIlgcD1rgrUg4KNIPL0plkfJ8I8GutH8OjaZtsCnSeJgyHElMLerXKZqDk4tdFPxDUjxkUGYt0w+hlT4g6JVq2+O2I1SCYIW+63KvxhQxAKddLhk9OqMFeANDWIEU/7Zzj0E+RMVb5JOJSpAt1Bt+2L9sofx9+jVSzZAKzdbf/LHE7jQ=="
@@ -151,7 +157,7 @@
               "key": "Google/Pixel 3 XL/Android 10",
               "children": [
                 {
-                  "label": "Pixel 3 XL A10 v5.8F (Tool V3.0.0.6+)",
+                  "label": "Pixel 3 XL A10 v5.8F",
                   "key": "Pixel_3_XL_A10_v5.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.8/Doma_V5.8F_Pixel_3_XL_A10_official.zip",
                   "hash": "X9pBMCUUlE4dcOhjrihdNFpuCN3dguw27WmNdi2aR/NPaflvd5u5hYWjchrPqQJb9cBMcQdZ5jfD7Irk90hGZdpsVWYsnXv7/6/Eyu3gpJ18ef09CQSvD+s+xUyWFQHF9bTwPcuO6BVVNAttQSFM9Ha4GDBh/TRJrPWTjkiz4bivxZnISgc/3FreUCYBSj16yOfyGB/MPfl6fLQvxshWVESDkepZhARShm0dliO2HYaPshXmLEcEXwsUMInU4qKIkxyBXUtAS7+vPfD3DN8/jWMuO8miK5zWX7N75eovdx4Ix0/KOSVtrIwkSc0cySyOdq6Mvr6pffpMrA4y9oItsQ=="
@@ -161,6 +167,12 @@
                   "key": "Pixel_3_XL_A10_v5.9.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.9/Doma_V5.9_Pixel_3_XL_A10_official.zip",
                   "hash": "IWbTJTlubCZtiu+cH0/GQN0k/P90J+D/hLaoa3odMSdi+3RCIfP0kgmrY4Svo00l9nAhS5heB7+Mpc0KyXoLPJrq8vXq6fzuajiagoz+/z+1hviDctXlCofsN4cLg5grGvNhjzwwbYRHBHmrPeqQiw7f5F2iRWXKZ9IGDKbjULZtF+wlYIog9VxKdL/EfDEolpo+ET22zZfHU0pZoAUQ3U6v18shLwowZmcA2NjX9X3Q4nxtk3Ua0b90JeyfXkL7QArvu3F/5JehoLb/uqbiNgYJSKVk22ipsQTdoBhhF5VPVthIzXn/kzYOv5/RauKqAo8ZwdjY2abiWmSuarp5EQ=="
+                },
+                {
+                  "label": "Pixel 3 XL A10 v6.0 (Support boxphone)",
+                  "key": "Pixel_3_XL_A10_v6.0.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/6.0/Doma_V6.0_Pixel_3_XL_A10_official.zip",
+                  "hash": "cVgsoQQZ8n4GTSFar+RFdtlnmZU/6XBaHfyMk88XNZy63spX+cQRLLOGbvqBj+AOa5kYJVIqg+REedrMV1FdvkMHyOyDUSMC463MEBXM2q7niGDhzfy18nwfJh+WgpMrrAXy5OY3fPCMrOohdxajKU3WeRzTMo1ED4LfBW68ZrQTgTECFoORc+6kZEvDVeqqAFD7yvNC69PG1lkpKABXfWdt0CTqHyvsJUHIUiifvzyhZShDCbjjwGwqhGAlXP7/gsUuGumUk7rr+uQddDp4QqBRBMbk29eIj3W/AgKsZro/4Wj7F+RN5vRXIPva+n1hZIofjBwL9pTRyuGEHHcnRA=="
                 }
               ]
             },
@@ -169,7 +181,7 @@
               "key": "Google/Pixel 3 XL/Android 12",
               "children": [
                 {
-                  "label": "Pixel 3 XL A12 V1.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 3 XL A12 V1.8",
                   "key": "Pixel_3_XL_A12_v1.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/1.8/Doma_A12_V1.8_Pixel_3_XL_official.zip",
                   "hash": "e6gCAxSuQg6EBwACO2f5Vr6gKqgpbNeBC19JKLE9XCI+407/1vvrjlLLMVd4DDvIw2m79HUr3nMoz7p5JXNO+tNry5fQGBH1+CM56xzVEuYaejwF4AlSSGcHJrkC2B1fPe/ZEir6R7R1Gu0XD5cBdaoNNdSlx0h/XnKOh0R37/mMwTy3bYu9mKRGA9OJYYBCkfk7O5K8a5gfyaUoZ9rkHGh+EPILUzj1OLsdP6S82Vu0CUXwtNv9s2pIIThX0kzqwRQRPxL86CWlQWypr42zJite6b2NViGgyLyWsU8FLHW6SsVZE5K//q69mGpi0nw319C9iT3ofPIP62uZYcJkXg=="
@@ -193,7 +205,7 @@
               "key": "Google/Pixel 4/Android 10",
               "children": [
                 {
-                  "label": "Pixel 4 A10 v5.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 4 A10 v5.8",
                   "key": "Pixel_4_A10_v5.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.8/Doma_V5.8_Pixel_4_A10_official.zip",
                   "hash": "bDWmTe1RlkBUelJU3qH35ir7pJChqnf61esD1Py8lvoZ9aeLNFtptFlT08vDAj3/WFsWsbJF5O5jMuD4ieWr/SOkqy4W/hsOkdilf4fpr4bCgv11PasA548jO5SxpNUFhCJ8+vzd96ffr6ekuFnaeibUEf8DnidfVcqyDBSynUFGy6aFMx3r5t7+sPEKnulv83JW31crdUFHLnZ1H1uKHjKQ8YXlfO9jwWQ0ctr7gf34GIDMC8778F1fURKqCnMNSMOUXsiwDfvXdidWAUQdtPXaJKm3gEe2svTj8wly7R7kFdAtRmVPSoe9IexhZ7zhzREPfNcFTv1xkGgi8ARFAQ=="
@@ -203,6 +215,12 @@
                   "key": "Pixel_4_A10_v5.9.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.9/Doma_V5.9_Pixel_4_A10_official.zip",
                   "hash": "VmCVY0ZGH5mKVBITHUs+Qq50FhrSVl0QG6A5UhEUS22xGtxx+f2n3nG6qWPdWL4pLsuAsupTujkewqjAiO7yqTF0bCsbTUZLY4QRZa2DL08gXpGmj03ZfI73GLHVwKosj10VdrbfZQlyO4hmYZ9+tFhKiYqHw4Db9AZOJjtvF5VwE2sA2oZvyAZd51GM8QM/0MzI2fOrZjyDDgIxqMTqiwl5krjXSb+Lkjtl22WJPhhc+m0L7BBUTsFuUCKYCbTybaaHLP+cBEgvFoN7fI0qfBhemZzgtiOaCHDjf5I8r20FSaGqqBXJLHrmmCm0xsl9iNouPIaTAYz+VPhkBDhn8Q=="
+                },
+                {
+                  "label": "Pixel 4 A10 v6.0",
+                  "key": "Pixel_4_A10_v6.0.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/6.0/Doma_V6.0_Pixel_4_A10_official.zip",
+                  "hash": "WUQdHNmuq+QlUdKb0oVmfRLA6GbpWFN85s2e9SyPXmKWJRdDGl/vL0EsVrhWMU9juM06S4M1jSjn+Rennd0DrbMyk1HUkcMJQDFZLRZ5Mf8OLj7RHGMIb13X/w+oii9lCVNy452VrAzL4G2X2FvbgzyDl3LObEp99ictfjaGXCslQB4KPyAvaw6kJMOcYV9M9BAdZQhLUb3fRnQuYZzjfXwJJcdETbdLBqGHoOQUXjqqPN5Al+uhiWO8WoJS72Xns0LRplKrWi4O9dffWo3LgflT8cmGSFW1obE8AzXjw6IKZEaR/2477RFj3PdeM07mQK6GfCUe1CBLqTN+LhJR6Q=="
                 }
               ]
             },
@@ -211,7 +229,7 @@
               "key": "Google/Pixel 4/Android 12",
               "children": [
                 {
-                  "label": "Pixel 4 A12 V1.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 4 A12 V1.8",
                   "key": "Pixel_4_A12_v1.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/1.8/Doma_A12_V1.8_Pixel_4_official.zip",
                   "hash": "EK7kwjXTyMxmGLK3B5lJ4kazxc+oN5Qu1rLDg2fLT+1iK3u/ds2vUHoaAFBbtxm37DOurcDBbSYWCHzo1DV1pECYMImrTH6O6QzqGmKlPo2golxRApYN5o08UVlw+pGo0afLcAwDAHFbpVXJrbX6rIgx7yjNSTgCrGrQzfsX93vgXyGOLoupDv+rO0gGO5ZXVVbuZpnR7O6wGb9tcjte0JW65qOHlONgYyeJBWNR8FjRf7c6+NclnWc9+boRn+VvgqH48FLZ5bxMyU3ZgWBDCt7v5uMrR77xKlxZ6liAA+6ihE2j20d/My0bB3CZ0xmofqnFkdcD5PSRt7HpTH8hWw=="
@@ -229,7 +247,7 @@
               "key": "Google/Pixel 4/Android 13",
               "children": [
                 {
-                  "label": "Pixel 4 A13 V1.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 4 A13 V1.8",
                   "key": "Pixel_4_A13_v1.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.8/Doma_V1.8_Pixel_4_A13_stock_official.zip",
                   "hash": "ctF9SiG/7Ya7UDMNnHovymsahdUt1emYKFPqXF2Mo+nFwvru0KOnS4r7dh2+Oh0Ozujr5DGDSphPYUtAj3AlZE7Z65pUUlTjOJbhYOwftt+DwG/tow6oxbzf1RRFKS8ZCaufZ1RqB+bJ+vtsNIHhLUe6U3fsvYip7+jjc/5aVk2Vv4rm9ilmGU8Vul4/BSH93cLMmj81RjMt0ktalSnSuowANx6Hxdb+QXCyg9AeKO89B2+waQBRkynsUfNYUDvwhbb1Zq6q6AanG74EOB85iREJIHDJWWBBVof0UtWalKmkRhWF3EAVJb6Aaa/SSXE7ZOxd3isUqL5SzyrmfnQQyg=="
@@ -253,7 +271,7 @@
               "key": "Google/Pixel 4 XL/Android 10",
               "children": [
                 {
-                  "label": "Pixel 4 XL A10 v5.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 4 XL A10 v5.8",
                   "key": "Pixel_4_XL_A10_v5.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.8/Doma_V5.8_Pixel_4_XL_A10_official.zip",
                   "hash": "Sg0SCS1/jw/PGEONjFMZHROd6O34WTBEXJ9hRrJ9XYrpxntz3pU64mGD5npZRVgcNkF0toNwUf5eTxXglT6ECdDg74HyAoyMczz7S7KR1xjOEHy2a9e8QpRaojjYmuEw6URiPxr8g2u51+kYQvECDu2WXbxtZGHokz0zzDOGpjpzfx61bRz4fueScb+Icz/XYxuKRVgOUn7gN9sd/JrvS8vlqBza2Ja0mAUjMX8Wma4o+NbSMl2vlPMf22VnhkUCydp5UW6ppvsv+8hiX9dAv9dSh32eY6SFF0VVFkcwxvmHJAC+9PNxEFMNbMaya/ZWT7qnfPITyXlE6y9kKuANIA=="
@@ -263,6 +281,12 @@
                   "key": "Pixel_4_XL_A10_v5.9.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.9/Doma_V5.9_Pixel_4_XL_A10_official.zip",
                   "hash": "f4NW/FLhb8WJXE/m5crQluLo8h3L0260aXZ8JTUMEyjDPj7irLnH6PC0/egLPgCUbTETIIWoZahMRqGk4zcZMkL+sTOX980qFG265vVUDRSKxmJ0fQGjV8TkrLB0hZxsu4F2ie1R3RC36AExCpRFjAncsmjc0Q8b8lZ6oVDl/szjsjxykLApdoGspcuGzTdVQTo/C0AcS998qMf2/+lheXTWpMl4JaG5CX+PgVVrz8PRJyD9wF50RmuVauvwuzv7CEzVC1p3ymd6gx+irfY9mCNFjzqQkVnacCo1mdE0ubsQat6S4pzwEPWDnNRcCRkj52dUhmj4xSJyBq53Op0p7Q=="
+                },
+                {
+                  "label": "Pixel 4 XL A10 v6.0",
+                  "key": "Pixel_4_XL_A10_v6.0.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/6.0/Doma_V6.0_Pixel_4_XL_A10_official.zip",
+                  "hash": "JqE/h+EIkBwRij/JCtfLNV+RBG/286Qy+4hA7/ZQcGz2beZ5I1tBNfHsyov0txhU7Ii7wn1TgRZE0I5/+nJqO3V0blhPtcMWX8S8mLXpou2loXzw6RUdNN7dq+Es719YqS9LtDoPNCSFvgL2meebMQJDh/dMfgqW7HCS5Fvu+/uk2gFY7vyUOZ1lfMD4GOzQHGn+eucUMCIP2jnFf85U1XHRILtlFssVWvhsvs301lPlKlLp5Pg08mJfyQQBuO+WvugSBfHICO7IYj7uDsMSbSDNP48bHGHLm1UsitTzrWR+c2oiOLzQrpgIq+fby3e2R/u6rcq+ChaaRWUNF6lH4Q=="
                 }
               ]
             },
@@ -271,7 +295,7 @@
               "key": "Google/Pixel 4 XL/Android 12",
               "children": [
                 {
-                  "label": "Pixel 4 XL A12 V1.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 4 XL A12 V1.8",
                   "key": "Pixel_4_XL_A12_v1.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A12/1.8/Doma_A12_V1.8_Pixel_4_XL_official.zip",
                   "hash": "HERBcEQbliokqIiyWsosDuKbVM3uemcasG3GM/vjC6wByKOn3pNT0O/Tv8tAYvdCMo0ardQkVriBOjkcxcMFm96qX3gQXKcIDeT5SSTW3uLzo+kuV/4/mSQqc4/F+5rYGjhhg0N5WEH9WQGgkAAX4zkYh1jSdCRkV+gxUGqTh6DUuk0if4uIb8CjVJrPnOc8FByDTruy8z5q/YuQ4oQlB9CxvktGYd22qPcwXdsHew2JclVgbhx+sLcYcsNjbdey71EBthzKO8aAwizEV0+aO8KrSu4fJF0z6+p447RzJ8rim/EcijojTXIPGh4Gy539g+99dPJKZDL5+p6ou4+3hw=="
@@ -289,7 +313,7 @@
               "key": "Google/Pixel 4 XL/Android 13",
               "children": [
                 {
-                  "label": "Pixel 4 XL A13 V1.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 4 XL A13 V1.8",
                   "key": "Pixel_4_XL_A13_v1.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.8/Doma_V1.8_Pixel_4_XL_A13_stock_official.zip",
                   "hash": "AqtMVkixgcTOd5sEZGHHwkWWWH60j+2WzGdgOM0OlVS0b6OnqJ5NAV1pazVEalRuMIKi3PpF7bFS2U2j6pWPvsjmCZp16RaFQGdLGwnOk1Pr+ONEovpFEz0kLF3NVCLrU9E31tCDRH5Jz/CBLBqibObfxS04rkqdl4goFeRFHiZ0OlCJoc0xR5GHytsjCdzW4BOJTg9J4l5PhemaowwV916+fLDfHUfd8uXozk2D5Rl+INI1fhJ39CKEPsNWvRdw6aiEADVbtx1IDKTGCYP4peVJ671C+xvR505ycvRcE8v0D60m6CGmoLU98uJARR0Gr9UtCghwD5oo72fHasRa+Q=="
@@ -313,7 +337,7 @@
               "key": "Google/Pixel 4a/Android 13",
               "children": [
                 {
-                  "label": "Pixel 4a A13 V1.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 4a A13 V1.8",
                   "key": "Pixel_4a_A13_v1.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.8/Doma_V1.8_Pixel_4a_A13_stock_official.zip",
                   "hash": "Dl1C9PjuIOZ2vIqSM8GN9SaeP3LtzDyBNo4SehDnGEjJKLmyJqaASULXoKsf3oSQDu7U7oZqSC5vR5g2dKGL6l7uQCsZ50tVPLGUfxVAgn+1k8fLyWZro3vhgQjOv0Zbj5HdUBFREdsdtbeeJr3GA2j5PwzT28OPP31gfbybTzwGhX+zXRrOxpTnCOnHCBgAEAWouOHp2rBMocooqyulMJp9XfYfh/Wn/vReT21Wgmxdn/q0nmSH0znF4P8nw12Rud99TIV056W66ngr9Vu8OazqLyIxXH+klIuisZbJGDDBtZ/BQeuGOkXs8yCy7G091cnlstJqQOzRbhMcspGlcw=="
@@ -337,7 +361,7 @@
               "key": "Google/Pixel 4a 5G/Android 13",
               "children": [
                 {
-                  "label": "Pixel 4a 5G A13 V1.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 4a 5G A13 V1.8",
                   "key": "Pixel_4a_5G_A13_v1.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.8/Doma_V1.8_Pixel_4a_5G_A13_stock_official.zip",
                   "hash": "FpTrmlGz7G2sdB6EJAJ/mOQsGtNPZNoMfkc1pEREIQw4Y99Ia1+uWY7DhhYI9PXSWF0Cu8BBRSbBCnWqYE/NAnLtO3xOFDMiCT3+A9LgCxC4ans9AWRyFYrIaIecc3aEpr9+tSebW+zLUUYdUge5NQBEpQxEjSCoMpv9tSZrZXjK24itEPFw9vZWck1S5arxc+7uWHMeRFWX9dp3MLrmlrbNIUPHd6a0yuttFQgYe7djEh+Nbn136G7sS8v5pPXRAYaPjGbeDN7TXKHJhLiEhZlsPK06ifZVVUlZciQMuqQ0EQNKLLGzLsv1TWUquLNqIHm3VzzK8Z1P5n1GXZ3v5A=="
@@ -361,7 +385,7 @@
               "key": "Google/Pixel 5/Android 13",
               "children": [
                 {
-                  "label": "Pixel 5 A13 V1.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 5 A13 V1.8",
                   "key": "Pixel_5_A13_v1.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.8/Doma_V1.8_Pixel_5_A13_stock_official.zip",
                   "hash": "H/WQeLX3RGJc405ZlIyCe+h4AkidRSUcsaqwN2eFCVb9swh5Zlmssljmqt2yBezAG5UcyaCmP6oyRrwXOVd1sAzKsjb7fcbRcjbcyN0SLjnd37LUqm71bJt0zv/r5Y40FHd+wkkeKqHuA+Q9miT3pfZ10kztyy/iY94mZPEXEOg4ubci8gkmo9lGgB4tksRn24eh0ytH1e0VfavmvLg3Ka3DgfxSY10sA6Pwgba8CNGJG6R4DpUKptpcIY7F/BHJPhZJ3slUWkC5IhCX9bsdTVMbdpIUmEfBNezy/hVNLVStQMaBxXZkfDjVU9UA09LsV6xSndN7LbMa0JEKFzQYVA=="
@@ -385,7 +409,7 @@
               "key": "Google/Pixel 5a/Android 13",
               "children": [
                 {
-                  "label": "Pixel 5a A13 V1.8 (Tool V3.0.0.6+)",
+                  "label": "Pixel 5a A13 V1.8",
                   "key": "Pixel_5a_A13_v1.8.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.8/Doma_V1.8_Pixel_5a_A13_stock_official.zip",
                   "hash": "g1d8AVklqzNZ0gnBi+4XcD3i7xrJ61suowEyGPybjW1L+0q2NnY/mg2xwqheRnoSLgKT82hxGWu6w/duaFLW7XwErex8yZErciXHcdyBAK8hdeB7j62KTsB5cPZmQXpwbnBshDNQBZtU4g/wZ24wVyIh+RZhb4AaOa9R0qGuPsK6fwNQWPZ71TTVrdhzXKpGz4fq7jNxQnLLMfRWuIzz6KiOOQtotpDz5Z8lB/ViFTVjgBUtIvD/IYwY2+DXoaTxZPPxexLSEdWBwzDkpfGSr80n2U0IYU5w+I6fOJcLculBpx6ZfGWtgVe9EXa9IRf+6PX536XgAdY4kcXxsdbrKg=="
@@ -434,7 +458,7 @@
               "key": "Samsung/Galaxy-S9-G960N/Android 10",
               "children": [
                 {
-                  "label": "SM-G960N A10_V5.8 (Tool V3.0.0.6+)",
+                  "label": "SM-G960N A10_V5.8",
                   "key": "Galaxy-S9-G960N-A10_V5.8.tar",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.8/AP_SM-G960N_A10_V5.8-All-in-one.tar"
                 },
@@ -442,6 +466,11 @@
                   "label": "SM-G960N A10_V5.9",
                   "key": "Galaxy-S9-G960N-A10_V5.9.tar",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.9/AP_SM-G960N_A10_V5.9-All-in-one.tar"
+                },
+                {
+                  "label": "SM-G960N A10_V6.0 (Support boxphone)",
+                  "key": "Galaxy-S9-G960N-A10_V6.0.tar",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/6.0/AP_SM-G960N_A10_V6.0-All-in-one.tar"
                 }
               ]
             },
@@ -450,7 +479,7 @@
               "key": "Samsung/Galaxy-S9-G960N/Android 13",
               "children": [
                 {
-                  "label": "SM-G960N A13_V1.8 (Tool V3.0.0.6+)",
+                  "label": "SM-G960N A13_V1.8",
                   "key": "Galaxy-S9-G960N-A13_V1.8.tar",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.8/AP_G960N_DOMA_A13_V1.8-All-in-one.tar"
                 },
@@ -472,7 +501,7 @@
               "key": "Samsung/Galaxy-S9-G960F/Android 10",
               "children": [
                 {
-                  "label": "SM-G960F A10_V5.8 (Tool V3.0.0.6+)",
+                  "label": "SM-G960F A10_V5.8",
                   "key": "Galaxy-S9-G960F-A10_V5.8.tar",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.8/AP_SM-G960F_A10_V5.8-All-in-one.tar"
                 },
@@ -480,6 +509,11 @@
                   "label": "SM-G960F A10_V5.9",
                   "key": "Galaxy-S9-G960F-A10_V5.9.tar",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/5.9/AP_SM-G960F_A10_V5.9-All-in-one.tar"
+                },
+                {
+                  "label": "SM-G960F A10_V6.0 (Support boxphone)",
+                  "key": "Galaxy-S9-G960F-A10_V6.0.tar",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/6.0/AP_SM-G960F_A10_V6.0-All-in-one.tar"
                 }
               ]
             },
@@ -488,7 +522,7 @@
               "key": "Samsung/Galaxy-S9-G960F/Android 13",
               "children": [
                 {
-                  "label": "SM-G960F A13_V1.8 (Tool V3.0.0.6+)",
+                  "label": "SM-G960F A13_V1.8",
                   "key": "Galaxy-S9-G960F-A13_V1.8.tar",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.8/AP_G960F_DOMA_A13_V1.8-All-in-one.tar"
                 },
