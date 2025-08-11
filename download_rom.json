@@ -294,6 +294,18 @@
                   "key": "Pixel_4_A13_v1.9.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.9/Doma_V1.9_Pixel_4_A13_stock_official.zip",
                   "hash": "QfcGy15NEvpZ0YG4uLABUV95pC4k14YD/ERaP37EPdt4bU9WRp6NCU0wJXjhW0+1Sb2RdLQsp6PFA9tBoBtj2GFfCbJeH4ztOzolqzh2/MNNQw1ku/ZCqu16Otth+msBwR79JksS4nOLHc2UbxZ7ghBahBmmtPRF4fGaaaOpRdmJFSpZ9LMXQGGti0eRh5//DCj0n7yPyZh4sOZmbAl+kZtPGS3S8hz/f7NofI5R9hJlPV2jHzDUVRHN3zXVTggkURLU3nXYS6Q3/g1pUkJhxv2FF/U6oN36c1cwgKMMj5EQTLlQ5JBd7u5xZhYnT6jseCjIZJFBMMzE2jPTp2vH7A=="
+                },
+                {
+                  "label": "Pixel 4 A13 V2.0 (Boxphone only)",
+                  "key": "Pixel_4_A13_v2.0_Boxphone.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/2.0/Doma_V2.0_BP_Pixel_4_A13_stock_official.zip",
+                  "hash": "cWLaxXbSdvlTjZGA0gSt3Wea0oc+/KmoDDCZMkzXdCUmsk0oTzZsG74UXoviOj5t8hVuICDjzX0h2HhW4UxclPGNkNmYwwPlqn73YKfVk8PXWXRzqwFzowroAOTpm9tA1L3iXVmNhg0WEJB1BeLXWQF8WVBwh00+LN+DKHvPBkBLy5OQMTAMfKtMHGT97mm16f+eGC8FIHlL5ffEiWSuEjvIpHl4bgumnzPa6dIkKqxetysPAhTL07Wq6/629VA3t+3pZG4pRLllCg8fM9vL7TN7zVvWc3F2obd/tcAlVc++iFjB7jsT6kuKLPaGMrSq+9YcivckypVETKxhH37Mog=="
+                },
+                {
+                  "label": "Pixel 4 A13 V2.0",
+                  "key": "Pixel_4_A13_v2.0.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/2.0/Doma_V2.0_Pixel_4_A13_stock_official.zip",
+                  "hash": "HjJxiZmU7rxdCERaB58kjUqy2ypLs0IjB7W6QMPU6LFqasXo78sNG/ANhXvhNvAEWpYDFdcBJGq5Y7pwTOnlaJYjo7+k/JOUj2Bn6lgVs6zAxbhiqu5ziQx1k3CWf6BFAXX9M7T+IrmYKE6raxQ0U0xQIUmZCTO4Xsbb8JMXSAUZOmKAn8G9obI/ncLyH3N+0YUqRwkYZTbzwYy9UJxB1hctrFwTDX/4TNSQUaqwQ7BmUm3y2UyLRahsIKmlLx1x6Xefzr3V6lKP0AuP3OBLPvWzIYj72lSwybJWJoDI9qHvqcgXz0qNiMOQkbaiq6Ia4B1RLPykSMrbSdqV7+L3rQ=="
                 }
               ]
             }
@@ -372,6 +384,18 @@
                   "key": "Pixel_4_XL_A13_v1.9.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.9/Doma_V1.9_Pixel_4_XL_A13_stock_official.zip",
                   "hash": "ZnQ/khwU6pA3yW0Ycrjaro7ZArqwC+kRQ7lI8EejKIFub+G/hzLdLlX+DSTep8/ctGbzT5CBthWUzK6B8Av0zBUZB2FyYORp6iWBgPpZt+6H76ZBc775Jd7fXmVqtFQY5UtRFlgAqcF04pW2NgCC/2o/z/NUQv+MkTehYIX6HUu6A+yDCj4tr5Bg4AMs0fipp6A/xbs0nxi/a2BUwCddPGtEAva5jVmh/NZ/zWqC9JBqSD948YZdGp062GJ21vfCeCgKH6DqQgY9ebZeGsNNy398zeSdfpvTQU3omPCs8YCj4uwIQWQRY2cAiJ7M/zdsaXhd+05Vxt8nzPtNfjsVCA=="
+                },
+                {
+                  "label": "Pixel 4 XL A13 V2.0 (Boxphone only)",
+                  "key": "Pixel_4_XL_A13_v2.0_boxphone.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/2.0/Doma_V2.0_BP_Pixel_4_XL_A13_stock_official.zip",
+                  "hash": "iO7OrdkHZzV6zK0Fg/SlWL+v+8JLaTo0bwQ6FmOk/ndf3DoqPABGiVurAH4tXkkIp3ArfSn8B1Q5p1IIiMFZcnf4UvsdWcfjd/gtCmhuiykaEIo0Cptq1ct/Np1bo6VRWu2Mnpb+9aUmdkb6AOrpV73Sj+h8pzyCOaLsEVHxXkmQUhvHB1tPlq0sBq+GBh7D3dvNpCz4v8UvLKYrrhqgPDu6lzz97ZIhMb+EUaEvDXydgo3/eeN3S23trFbicQ1ZvUgVhvA79suabPOoy9VgrEEFDo5lzlktsoPF7Y5hwAvL+w5IVU0EllHXjBfxN552B4Mozpn713Nkj162FSzprQ=="
+                },
+                {
+                  "label": "Pixel 4 XL A13 V2.0",
+                  "key": "Pixel_4_XL_A13_v2.0.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/2.0/Doma_V2.0_Pixel_4_XL_A13_stock_official.zip",
+                  "hash": "J7PeAsHRy0eo7F5o/YyqBgU8t5DFR+Rc4bmlHO+9drP/oSnokg9/wq3yb5Qv7iuVLeDwtvt4pjIJx6b6YDwtk70OieXJ6iEB+CIa50aI5nPCAbtCLV6GhP5lyg44pCHaLJvTE4iAFIngyAQZ/EyTbIhdCAY5zoZklLXmulRlDtUOUJSijhRbngJIVXEylO4H1yUCZyt+9xpm42F9okKQDSJZ3SfwpJIHlwaK8Vu/Ibz3ldIjMjv75yGkMQR9wq/tRLGXXUJvsXKDyHKO6kLmzn3pExLzXRAmnVk2IllXbIkWBuuaOiABP8GwGc7O6ixLzYtQQfX0SQRfO1dCT6WxfQ=="
                 }
               ]
             }
@@ -396,6 +420,12 @@
                   "key": "Pixel_4a_A13_v1.9.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.9/Doma_V1.9_Pixel_4a_A13_stock_official.zip",
                   "hash": "EgqyEgay8QzcnpNZuoQPXpfHf43hfGbJyR1/FlG4ykcJdftAPt0aZQldsBdB6NpoaIl2ZI5YiE1RCnNykEYqQ9F2e6+6Sh4BN/WjTSaG+CF3pXkjdy0NZbIombNjwxmQhwqt55FIURyeOQgAGr58gZTvXCUP/bsXWawau6K2lvHx2aH/vdvRGF4i0AKULQS1TOFnNLvMaxiBGOjaZPXz8zYiKTm26m/mbw2lE/AvdpYA09dn/6zFhAECPUBKQ2xHBx0uU+y+domrru+GCXj0qW4G0pvP9k0CC0n/YgIFAwwj2ZKAIL7pzgQm8ft0N+/VQoM5GUdXIyWAjffG+z3A7g=="
+                },
+                {
+                  "label": "Pixel 4a A13 V2.0",
+                  "key": "Pixel_4a_A13_v2.0.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/2.0/Doma_V2.0_Pixel_4a_A13_stock_official.zip",
+                  "hash": "ZDL9OzPMi7qnGJ5QIonr33mGsz1BAI1MBvkyLvEu7oZxalD86Y+0WetSKzUfEUs2oWl/GA7f48TRSyoAVuipz1gJ5Sec0uBtRQzJTZNyF8Hhkoq0wEmiMMF25d64nefRq+Q+Lp2aLOLU/2gaKZgrFoAyJvtut4uegeDqXckN7zbAchj+IaAjm0bNAj/hM2qoQFTfjZPfsJMnMDcrJ6tE3wGIaNQQE6jLLQq1jxxYq9PYtarW/r9MdxR/Bc7giy3fH5fdOYLbbQiGGW60BXtGBSTccSKpXJLpRAi563HNFMwKQEPnV4PleO+ChDiR2JvebAtRC4FfiniZ1gnQQ4KwYw=="
                 }
               ]
             }
@@ -420,6 +450,12 @@
                   "key": "Pixel_4a_5G_A13_v1.9.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.9/Doma_V1.9_Pixel_4a_5G_A13_stock_official.zip",
                   "hash": "H5hXqOjB/Ia5WmG+CHlJfE54am+XVEaL/+yWgQRC/WB7tdEaKC261me5DQfno/YVEhQdtmywLuXY3WKjKRGo13CDZ00LvQasRt0bto+Z/qhS8k3iPBbwo5MgqIRlijzBa/CUazyJPtoMs3HIxUtrXc5Qf65jPlrHc1Tjg35/U3UaJWknoBT7APxdMC2Wd85e3ITVdi78zY2UYPUjhMiddHj3kjPFYAb7wPFg4AvevDFqUivjJuwbULaImo0nJmo2+KBdoEhnObrwfcQVKX4RhEidpnhqkTbdKvpN5qyQsCfiT9c5AK1sGxRpIJDeYzQOzojfkd+bUddvTv0XXn+zlA=="
+                },
+                {
+                  "label": "Pixel 4a 5G A13 V2.0",
+                  "key": "Pixel_4a_5G_A13_v2.0.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/2.0/Doma_V2.0_Pixel_4a_5G_A13_stock_official.zip",
+                  "hash": "cA7mzxm0XKLTv8y8vW+nxHW7RiTE+KIe+umosDL2W+AVz1T1aWFbwWJE6Mozmldl/ISTxZjgsazg3h+01oxGRew+QL+pItb779XF67vl8VhuX+dKupaiWSAC1yilZBf6a8lOxC98136C7u8ULMxNaOlq2k2GOtO3pWMXltr9JJJDoCM4cxMb3CbPGZS6gViI/ML8Aihf2vnsnx8W3kIQ2fiaVja7RsYLj5ZVy0uOtlN1vpsJ73cPrWKeyD1WxZeeRma87cNDyDkkqxfpHXd1tdHcCGxqRiHtuvafRYaYpDl3llfn/D2ZpdzTFRjbPdnLWxJEyz3QzGDI0bK0eXkrrA=="
                 }
               ]
             }
@@ -444,6 +480,12 @@
                   "key": "Pixel_5_A13_v1.9.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.9/Doma_V1.9_Pixel_5_A13_stock_official.zip",
                   "hash": "b1Sadg32DFLGJQBAabmwzPVjI3JQX4UIKEMmVb2AhMAP3s0IYx+/ZZmgcayZ8CAFZdsllwjIsY6s/5LFNhkZe5eOdycCsSYB69+yBVi13j2HSCXJetAeGP4ds1qLwgGDRZsRHWqKykpkmPE9EUNVeyFoqfzzpdOWdjws4PI4M+Nj5Yccr47Wuyltg7O++Tfx7DoQZ9Y13327nXcqfWC/SCajkhPkyBQXXzMLbO+aX1XajQUnMTxvUfgkaerFHEOoqAoLS5sjSCfpYsPzkrN9Ivys88lp/wdr5i1ExPiO/o+530rchYarbGPgmAGLJsStRNLvamniBA17d/uS+pS1nw=="
+                },
+                {
+                  "label": "Pixel 5 A13 V2.0",
+                  "key": "Pixel_5_A13_v2.0.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/2.0/Doma_V2.0_Pixel_5_A13_stock_official.zip",
+                  "hash": "ATrNk3ShmZmUYgY3vadrowtfMplvEBEWCmhto6VZcrq6YkKHbXqYIqiGKnN1n5CH2C3NcZtzBSkAoFuecKrWv83AzU7DAOwneBxWiHQZzdo/UQ8MpEb2uHi6WjOk2KTBWgwWXwHj7BD/iL97tOFc5kjXJymgsMuBKW6RbzMeFmy1+C8FZNaXNyUQ0nQ7xEmy/eYQgU9wGJDzlI9r6BT5mo4Ew+FK+zSnqhUKB/5jj89jSnPj6tP4okN9svjY6RtUSL1xiOjzfKNTmNYmnk3xh0XyNyeYwF0Oe+BlDihsg1S532ax4ZwHVftdtCze8khxLnlMJIEAES2oK2r/zah86Q=="
                 }
               ]
             }
@@ -468,6 +510,12 @@
                   "key": "Pixel_5a_A13_v1.9.zip",
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.9/Doma_V1.9_Pixel_5a_A13_stock_official.zip",
                   "hash": "Stbak5jkQ9x9s8g/UkSsv2egg0oEamLlAk1JORNsyYS8jx+lWKREnSYDFQz/O3VyU3jDyXDNfmZ/i+E1dqEZZxHsQejJ+9W6mskrp+ZY04BHyxLjNhy2UX67wyjjCNdunVXOS5oJ9TDO05bPOM8h+Y7+/NDVDw2HSrBYlI6QXwlugC5XXvvw7+6hVqY/stjWSVc1gSTxcnffi1Gdnj17+F6s6dKhdUqyfJrRCiFWP0gZnx8rDSKXbbXoy+4hhXAhdX1PmleL+DVm2B5eJnp09uNWcN/nW/VhlJNdbcdaZutzbq/tAmZ77Qq2JOEiMngtMj70ZRIbcYEc2qGfch06kA=="
+                },
+                {
+                  "label": "Pixel 5a A13 V2.0",
+                  "key": "Pixel_5a_A13_v2.0.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/2.0/Doma_V2.0_Pixel_5a_A13_stock_official.zip",
+                  "hash": "VOkm3YDo0Zzrm64EJ3gMGtRt6J/ZaQAUlWbmzsXyMaXCFtWAB5uBxp0I257yCGpp/eqycA6U+9TddgutdVsz/hTRc7eXQaXtGb5vwzO1dl7zDEywytiDy1I6f9baC+yt+46nQGpqw46SP/TvHA3CazpGbrPx2aVwU8F+9n9Hyo/W7K1zKOaa3m8ngrQAo2VaZ0M2XF9981SW2UcV+S3XQhP0IZ6XKRG3sLGdbuw9oKh4Boi5mXQvt9xCTWVOtVJOoxs3FGrD8jQ8lz/Sp1JXoIipg9KbpPB9yiOBR8YKm4uYidKJ4t4t1Vkv8JAU87FAPul15qfFaKjagaysppBTGw=="
                 }
               ]
             }
