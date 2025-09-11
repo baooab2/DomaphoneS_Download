@@ -61,6 +61,18 @@
                   "hash": "As/bT7VanOivlF5JHV49ZjS/Yv/opIB6UcbK1Xf3csiZFpQg1H9oeZDNTUxvLo/BlEanTCO0xVcBbIAnz0HygtaQDg/nNRplEeGO7aM4flT5AekxJkNwFISwRthPu5f1cN0B5TOiqTyfWDTUGEl9c7yb79qDnkrRypXUAnsIOdM4apUjthmtbQRZ06x6PeGRoqz4Njf6cd/nUYLzFl7we7HnWf1AKa5bUV1X1YEEqiuAEBS5NtSQpWMtcbKObwydIQ36zwU6OfHKxICASO48atBivZ1wi650Fq9VrZN4i8H4KctVKV+BjsDLNFN6IpGM6jOdZhxaQiPqZLtdMh6CSg=="
                 }
               ]
+            },
+            {
+              "label": "Android 13 (Nền PixelExperience)",
+              "key": "Google/Pixel 3a/Android 13",
+              "children": [
+                {
+                  "label": "Pixel 3a A13 v2.1 (Support boxphone)",
+                  "key": "Pixel_3a_A13_v2.1.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/2.1/Doma_Pixel_3a_A13_V2.1_official.zip",
+                  "hash": "I1y+6DynhqkubhlO4l+nckigYLro0x7DnRf4L9CmPis3ueqDSxOWCV/uGxI75l9Ep1FXQlEgMOX68Bn4Y0w1+YdiJvYIas2o+u+QFpbt+gVRmZD/Ti/M6J8wkDE+DoBQ/zVONFhZtAw1AkMcKp2OpUTCjTtui1LxNJxNB09Nfhoq2to0nftFWW3lEM6DgD5ee8u+eIU1UiNP7sLAdOHbDzX9Mtn5EclgL11VRZmfCODNBjUT4k8I0USF6qGLK/kiJwE7iC400ZEvwwEq0gR7Nu04EcAcSPp9ZyYzfKmxUEClKsywRbn6QI4OPOKw9MtvUSV30nAWrGkxylm4+sngxQ=="
+                }
+              ]
             }
           ]
         },
