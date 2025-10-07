@@ -694,9 +694,9 @@
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.9/AP_G960N_DOMA_A13_V1.9-All-in-one.tar"
                 },
                 {
-                  "label": "SM-G960N A13_V2.1",
-                  "key": "Galaxy-S9-G960N-A13_V2.1.tar",
-                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/2.1/AP_G960N_DOMA_A13_V2.1-All-in-one.tar"
+                  "label": "SM-G960N A13_V2.1P (Fixed wifi limited)",
+                  "key": "Galaxy-S9-G960N-A13_V2.1P.tar",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/2.1/AP_G960N_DOMA_A13_V2.1P-All-in-one.tar"
                 },
                 {
                   "label": "SM-G960N A13_V2.1 (Boxphone only)",
@@ -747,9 +747,9 @@
                   "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/1.9/AP_G960F_DOMA_A13_V1.9-All-in-one.tar"
                 },
                 {
-                  "label": "SM-G960F A13_V2.1",
-                  "key": "Galaxy-S9-G960F-A13_V2.1.tar",
-                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/2.1/AP_G960F_DOMA_A13_V2.1-All-in-one.tar"
+                  "label": "SM-G960F A13_V2.1P (Fixed wifi limited)",
+                  "key": "Galaxy-S9-G960F-A13_V2.1P.tar",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/2.1/AP_G960F_DOMA_A13_V2.1P-All-in-one.tar"
                 },
                 {
                   "label": "SM-G960F A13_V2.1 (Boxphone only)",
