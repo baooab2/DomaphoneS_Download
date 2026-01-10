@@ -575,6 +575,23 @@
           ]
         },
         {
+          "label": "Pixel 4a (Boxphone không màn hình)",
+          "key": "Pixel-4a-bp",
+          "children": [
+            {
+              "label": "Android 13",
+              "key": "Google/Pixel 4a BP/Android 13",
+              "children": [
+                {
+                  "label": "Pixel 4a A13 V2.2 (Chỉ Tool Domadroid)",
+                  "key": "Pixel_4a_A13_v2.2-bp.zip",
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A13/2.2/Doma_Pixel_4a_A13_V2.2_stock_official.zip"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "label": "Pixel 4a 5G",
           "key": "Pixel-4a-5G",
           "children": [
