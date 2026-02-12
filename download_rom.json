@@ -126,10 +126,9 @@
               "key": "Google/Pixel 3a XL/Android 10",
               "children": [
                 {
-                  "label": "Pixel 3a XL A10 v6.0",
+                  "label": "Pixel 3a XL A10 v6.0F",
                   "key": "Pixel_3a_XL_A10_v6.0.zip",
-                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/6.0/Doma_V6.0_Pixel_3a_XL_A10_official.zip",
-                  "hash": "cdeYSvNIRcgqUq+CwbihrKM+qCW8SemTe6Xd+HZSnjgZfHFhiev+eAZrgZ/2d5nu3JCWixf7hWVzdOr5AJXJcnWLN/wgY/Yor3LOiu4njDkckempmKFAccRb+CeLVB/ScCUcdVAz9neAaUDsQPKheMCowd24EZHwQ2xuH+UHPJfEaKvB9/wOMOEnLp6Z6jmAYfHdljKvpGw9Xir6aPLQFJXYeIWqVLesRuuPONPfS07EtD+JabmwZsWFlcQBGZoV3WCtYUs9raGGcmI/qcgpH23eI14VUwIRp/lHLOcQvWSP9BE/6rJZBdxuLJshYFBB2a529VKiRAzc/zcPo2YaGQ=="
+                  "downloadUrl": "https://pub-17c6a71851dc4f75a5dbbd2fffd445fa.r2.dev/A10/6.0/Doma_V6.0_Pixel_3a_XL_A10_official.zip"
                 },
                 {
                   "label": "Pixel 3a XL A10 v6.2 (Chỉ Tool Domadroid)",
